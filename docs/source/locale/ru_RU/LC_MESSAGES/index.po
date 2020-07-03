@@ -1,0 +1,378 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2015, Jupyter Team, https://jupyter.org
+# This file is distributed under the same license as the Jupyter
+# Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Jupyter Documentation 4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-01 16:01+0000\n"
+"PO-Revision-Date: 2020-07-03 16:47+0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+"Last-Translator: Dmitriy Q <dmitry@atsip.ru>\n"
+"Language-Team: TranslAster <https://github.com/translaster>\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 2.3.1\n"
+
+#: ../../source/index.rst:3 0ca3dabffb0443f4b0d4c99a98fff5c0
+msgid "Jupyter Project Documentation"
+msgstr "Проект документации Jupyter"
+
+#: ../../source/index.rst:5 7cf5d6ae1f8c4849bc62b3701af5e0ac
+msgid ""
+"**Welcome to the Jupyter Project documentation**. This website acts as \"meta\" "
+"documentation for the Jupyter ecosystem. It has a collection of resources to "
+"navigate the tools and communities in this ecosystem, and to help you get "
+"started."
+msgstr ""
+"**Добро пожаловать в документацию проекта Jupyter**. Этот веб-сайт действует "
+"как \"мета\" документация для экосистемы Jupyter. Он содержит набор ресурсов "
+"для навигации по инструментам и сообществам в этой экосистеме, а также для "
+"того, чтобы помочь вам начать работу."
+
+#: ../../source/index.rst:11 b795cabfa1ce44b1a8a74ce7b6ad6274
+msgid "Start Here"
+msgstr "Начните здесь"
+
+#: ../../source/index.rst:16 1cf84de214d34c8e9e090de0d0c7274f
+msgid ":doc:`Get started with Jupyter Notebook <content-quickstart>`"
+msgstr ":doc:`Начать работу с блокнотом Jupyter <content-quickstart>`"
+
+#: ../../source/index.rst:18 9a691606fd5446eb8bb6c5269b1d3ffd
+msgid "Try the notebook"
+msgstr "Доверенный блокнот"
+
+#: ../../source/index.rst:20 82a6de4860c74e98bea71d67289bbfbf
+msgid ":doc:`Community <community/content-community>`"
+msgstr ":doc:`Сообщество <community/content-community>`"
+
+#: ../../source/index.rst:22 2f235b8ec19e43e3a7990120fb02faea
+msgid "Sustainability and growth"
+msgstr "Устойчивость и рост"
+
+#: ../../source/index.rst:24 265b4125e8934f919483775f2e9b7850
+msgid ":doc:`Architecture <architecture/content-architecture>`"
+msgstr ":doc:`Архитектура <architecture/content-architecture>`"
+
+#: ../../source/index.rst:26 301b87371f7c4af685a1ed64626fbd39
+msgid "What is Jupyter?"
+msgstr "Что такое Jupyter?"
+
+#: ../../source/index.rst:28 ac92ed24ac53424fbb19cad8a415de40
+msgid ":doc:`Contributor Guides <contributor/content-contributor>`"
+msgstr ":doc:`Руководства для участников <contributor/content-contributor>`"
+
+#: ../../source/index.rst:30 7f3f306c237648d0b7a234994e404ac0
+msgid "How to contribute to the projects"
+msgstr ""
+
+#: ../../source/index.rst:32 d36f41b697d545dcb0bdefc37b8dd31a
+msgid ":doc:`Narratives and Use Cases <use-cases/content-user>`"
+msgstr ":doc:`Повествования и варианты использования <use-cases/content-user>`"
+
+#: ../../source/index.rst:34 bb1bdb8b4efa48db927dad6e1240b98d
+msgid "Narratives of common deployment scenarios"
+msgstr ""
+
+#: ../../source/index.rst:36 f4467947b0c84fc0b9765f67774ba806
+msgid ":doc:`Release Notes <releases>`"
+msgstr ":doc:`Примечания к выпуску <releases>`"
+
+#: ../../source/index.rst:38 c734ad092e5249faadc2b95d2109fa58
+msgid "New features, upgrades, deprecation notes, and bug fixes"
+msgstr ""
+
+#: ../../source/index.rst:40 3f1c20b8aacc40bfb22c0de28e3745b2
+msgid ":doc:`IPython <ipython/content-ipython>`"
+msgstr ":doc:`IPython <ipython/content-ipython>`"
+
+#: ../../source/index.rst:42 be80d13c2ea04d37a83720e006c9b5eb
+msgid "An interactive Python kernel and REPL"
+msgstr "Интерактивное ядро Python и REPL"
+
+#: ../../source/index.rst:44 6c0994b4f85a4352a1680d3b3c75d269
+msgid ":doc:`Reference <reference/content-reference>`"
+msgstr ":doc:`Ссылка <reference/content-reference>`"
+
+#: ../../source/index.rst:46 470814310a8545f8ad797eedd7c3391d
+msgid "APIs"
+msgstr "API"
+
+#: ../../source/index.rst:48 3ed552d8a4bd4432bab7db76115152b0
+msgid ":doc:`Installation, Configuration, and Usage <projects/content-projects>`"
+msgstr ""
+":doc:`Установка, конфигурация и использование <projects/content-projects>`"
+
+#: ../../source/index.rst:50 cf52397ae86e43c4a56179b537960990
+msgid "Documentation for users"
+msgstr "Документация для пользователей"
+
+#: ../../source/index.rst:52 cecc4718b40f43a9a864158399e74f95
+msgid ":doc:`Advanced <migrating>`"
+msgstr ":doc:`Дополнительная <migrating>`"
+
+#: ../../source/index.rst:54 9985efef799b4ec291d5dd2796045541
+msgid "Documentation for advanced use-cases"
+msgstr ""
+
+#: ../../source/index.rst:57 9d56872692ef45a68ed6488b5c486920
+msgid "Sub-project documentation"
+msgstr "Документация под-проекта"
+
+#: ../../source/index.rst:61 db14f4a1ab6e4cf39ce1eaaef9cfe0ab
+msgid "Jupyter User Interfaces"
+msgstr "Пользовательский интерфейс Jupyter"
+
+#: ../../source/index.rst:63 7d1a18458b414325be3cd66d568530ed
+msgid "`Jupyter Notebook <http://jupyter-notebook.readthedocs.io/en/latest/>`_"
+msgstr "`Блокнот Jupyter <http://jupyter-notebook.readthedocs.io/en/latest/>`_"
+
+#: ../../source/index.rst:64 fb080b81e17e4e7a87d25a776901dc66
+msgid "`Jupyter console <http://jupyter_console.readthedocs.io/en/latest>`_"
+msgstr "`Консоль Jupyter <http://jupyter_console.readthedocs.io/en/latest>`_"
+
+#: ../../source/index.rst:65 7005f46f545a4a7ab8fe8f7ddfa6bbdd
+msgid "`Qt console <https://qtconsole.readthedocs.io/en/stable>`_"
+msgstr "`Консоль Qt <https://qtconsole.readthedocs.io/en/stable>`_"
+
+#: ../../source/index.rst:68 db36e079730d4915a12708dd84303cd9
+msgid "JupyterHub"
+msgstr "JupyterHub"
+
+#: ../../source/index.rst:70 da2befa96d664ee692d1528de82609ed
+msgid "`JupyterHub <http://jupyterhub.readthedocs.io/en/latest>`_"
+msgstr "`JupyterHub <http://jupyterhub.readthedocs.io/en/latest>`_"
+
+#: ../../source/index.rst:71 5a03899a375340d5a4fec8defb060481
+msgid ""
+"`configurable HTTP proxy <https://github.com/jupyter/configurable-http-proxy>`_"
+msgstr ""
+"`конфигурация HTTP-прокси <https://github.com/jupyter/configurable-http-proxy>`_"
+
+#: ../../source/index.rst:72 7b296cd1a6ff4c90b88ec5a63a91e3f8
+msgid "`dockerspawner <https://github.com/jupyter/dockerspawner>`_"
+msgstr ""
+
+#: ../../source/index.rst:73 288f2029f4b045fdba16d970f8330ccd
+msgid "`ldapauthenticator <https://github.com/jupyter/ldapauthenticator>`_"
+msgstr ""
+
+#: ../../source/index.rst:74 6248048626554ea4b3ce35e877f32e30
+msgid "`oauthenticator <https://github.com/jupyter/oauthenticator>`_"
+msgstr ""
+
+#: ../../source/index.rst:75 b8b7832a4bce477f9343a592b7f77e39
+msgid "`sudospawner <https://github.com/jupyter/sudospawner>`_"
+msgstr "`sudospawner <https://github.com/jupyter/sudospawner>`_"
+
+#: ../../source/index.rst:78 137d9aa53245430b81ec720eafba6c62
+msgid "Education"
+msgstr "Обучение"
+
+#: ../../source/index.rst:80 f4acb94a8d30480cb38a8b53a929ba63
+msgid "`nbgrader <http://nbgrader.readthedocs.io/en/latest>`_"
+msgstr ""
+
+#: ../../source/index.rst:83 938eede4473a4703b143ccaf819736f9
+msgid "Conversion and Formatting"
+msgstr "Преобразование и форматирование"
+
+#: ../../source/index.rst:85 4d47a20a498246ca981a305b3c69abd6
+msgid "`nbconvert <http://nbconvert.readthedocs.io/en/latest>`_"
+msgstr "`nbconvert <http://nbconvert.readthedocs.io/en/latest>`_"
+
+#: ../../source/index.rst:86 ec2b701f60ad4aa89b0da28c0adb1569
+msgid "`nbformat <http://nbformat.readthedocs.io/en/latest>`_"
+msgstr "`nbformat <http://nbformat.readthedocs.io/en/latest>`_"
+
+#: ../../source/index.rst:89 c5c15ee3b85944598b2e2dc2bf8b044e
+msgid "Kernels"
+msgstr "Ядра"
+
+#: ../../source/index.rst:91 68545da62850415292c602093b6b96ed
+msgid "`IPython <https://ipython.readthedocs.io/en/stable>`_"
+msgstr "`IPython <https://ipython.readthedocs.io/en/stable>`_"
+
+#: ../../source/index.rst:92 f48ed13a89a746d1ac65a47f6ea6741e
+msgid "`IRkernel <https://irkernel.github.io>`_"
+msgstr "`IRkernel <https://irkernel.github.io>`_"
+
+#: ../../source/index.rst:93 db50d596554d487c8b30a17c3fe2376a
+msgid "`IJulia <https://github.com/JuliaLang/IJulia.jl>`_"
+msgstr "`IJulia <https://github.com/JuliaLang/IJulia.jl>`_"
+
+#: ../../source/index.rst:94 39ff0fb841e34d01a3e6094b4967c170
+msgid ""
+"`Community maintained kernels <https://github.com/ipython/ipython/wiki/IPython-"
+"kernels-for-other-languages>`_"
+msgstr ""
+"`Ядра, поддерживаемые сообществом <https://github.com/ipython/ipython/wiki/"
+"IPython-kernels-for-other-languages>`_"
+
+#: ../../source/index.rst:97 177e564558b443b2917c7a4b7189e77a
+msgid "IPython"
+msgstr "IPython"
+
+#: ../../source/index.rst:99 fadd47fd0f044c9f822bf5ad69624eb9
+msgid "`IPython <http://ipython.readthedocs.io/en/stable>`_"
+msgstr "`IPython <http://ipython.readthedocs.io/en/stable>`_"
+
+#: ../../source/index.rst:100 e5e5f1703fcf4697827774c19cee127d
+msgid "`ipykernel <https://ipython.readthedocs.io/en/stable>`_"
+msgstr "`ipykernel <https://ipython.readthedocs.io/en/stable>`_"
+
+#: ../../source/index.rst:101 ccdc89e9c55f49209a08d4f407449bcb
+msgid "`ipyparallel <https://ipyparallel.readthedocs.io/en/latest>`_"
+msgstr "`ipyparallel <https://ipyparallel.readthedocs.io/en/latest>`_"
+
+#: ../../source/index.rst:104 e690aae87207498f985d35974fb9c51c
+msgid "Architecture"
+msgstr "Архитектура"
+
+#: ../../source/index.rst:106 82cc1858e7914a66b79cfaa2ba1a16f6
+msgid "`jupyter_client <http://jupyter-client.readthedocs.io/en/latest>`_"
+msgstr ""
+
+#: ../../source/index.rst:107 51f148dae4624d56a6225d088f6f6fea
+msgid "`jupyter_core <http://jupyter-core.readthedocs.io/en/latest>`_"
+msgstr ""
+
+#: ../../source/index.rst:110 fb5235bda5894872900e8a0059b8c7f0
+msgid "Deployment"
+msgstr "Развертывание"
+
+#: ../../source/index.rst:112 6ffba4a779fc4573ae480f4b7e82062f
+msgid "`docker-stacks <https://github.com/jupyter/docker-stacks>`_"
+msgstr ""
+
+#: ../../source/index.rst:113 9999ae0e64654cd088e586e196d88164
+msgid "`jupyter-sphinx-theme <https://github.com/jupyter/jupyter-sphinx-theme>`_"
+msgstr ""
+
+#: ../../source/index.rst:114 1faa2b252ef944979acdc942dd655680
+msgid "`kernel_gateway <http://jupyter-kernel-gateway.readthedocs.io/en/latest>`_"
+msgstr ""
+
+#: ../../source/index.rst:115 dbfe79ff0859421fa936ff0829251647
+msgid "`nbviewer <https://github.com/jupyter/nbviewer>`_"
+msgstr ""
+
+#: ../../source/index.rst:116 4a2d0a2f69534e93aae0a124e7cdab25
+msgid "`tmpnb <https://github.com/jupyter/tmpnb>`_"
+msgstr "`tmpnb <https://github.com/jupyter/tmpnb>`_"
+
+#: ../../source/index.rst:117 a929e76b5ec84ed7a3d0a22486d9e315
+msgid "`traitlets <http://traitlets.readthedocs.io/en/stable>`_"
+msgstr "`traitlets <http://traitlets.readthedocs.io/en/stable>`_"
+
+#: ../../source/index.rst:120 42baec5c38b041ff8009d6900d9c78ce
+msgid "JupyterLab"
+msgstr "JupyterLab"
+
+#: ../../source/index.rst:122 ca4a4317925a42c48504439f1adddac0
+msgid "`JupyterLab <https://github.com/jupyterlab/jupyterlab>`_"
+msgstr "`JupyterLab <https://github.com/jupyterlab/jupyterlab>`_"
+
+#: ../../source/index.rst:123 fa4d3239bc644f019105cff151a42462
+msgid "`ipywidgets <https://ipywidgets.readthedocs.io/en/latest>`_"
+msgstr "`ipywidgets <https://ipywidgets.readthedocs.io/en/latest>`_"
+
+#: ../../source/index.rst:127 5e69089fcda84450bfe9ace4661fcba7
+msgid "Table of Contents"
+msgstr "Содержание"
+
+#: ../../source/index.rst:183 689e1a75d37842f281fc6ef4a4292025
+msgid "Resources"
+msgstr "Ресурсы"
+
+#: ../../source/index.rst:1 35c1820382d048e3829ab7c5259e11b8
+msgid "Site"
+msgstr "Расположение"
+
+#: ../../source/index.rst:1 6081760097174980ba3131160adb31b7
+msgid "Description"
+msgstr "Описание"
+
+#: ../../source/index.rst:1 430ec0f9008f4ec3bff7c693004dda27
+msgid "`Jupyter website <https://jupyter.org>`_"
+msgstr "`Веб-сайт Jupyter <https://jupyter.org>`_"
+
+#: ../../source/index.rst:1 98ee2e9188114a09b111995377a981e7
+msgid "Keep up to date on Jupyter"
+msgstr "Будьте в курсе событий об Jupyter"
+
+#: ../../source/index.rst:1 ba0d9c491dc04c99ba4c395f0c5c3a3f
+msgid "`IPython website <https://ipython.org>`_"
+msgstr "`веб-сайт IPython <https://ipython.org>`_"
+
+#: ../../source/index.rst:1 9fd26b533ac64944b76e38fff8c286b9
+msgid "Learn more about IPython"
+msgstr "Узнайте больше о IPython"
+
+#: ../../source/index.rst:1 bfb679abaf874967bb7f2dfb449ba914
+msgid "`jupyter/help repo <https://github.com/jupyter/help>`_"
+msgstr ""
+
+#: ../../source/index.rst:1 da7a447618104880b0b522978d33de42
+msgid "Start here for help and support questions"
+msgstr "Начните здесь для получения помощи и поддержки"
+
+#: ../../source/index.rst:1 9f8ed525fa194f469b1682de6588f454
+msgid "`Jupyter mailing list <https://groups.google.com/forum/#!forum/jupyter>`_"
+msgstr ""
+"`Список рассылки Jupyter <https://groups.google.com/forum/#!forum/jupyter>`_"
+
+#: ../../source/index.rst:1 a5527873be9f400e813c71d9dcd7c825
+msgid "General discussion of Jupyter's use"
+msgstr ""
+
+#: ../../source/index.rst:1 d76b4702ec4340cbacff04468f0cf0b6
+msgid ""
+"`Jupyter in Education group <https://groups.google.com/forum/#!forum/jupyter-"
+"education>`_"
+msgstr ""
+
+#: ../../source/index.rst:1 051c061858d649e8a140543d1102f6bb
+msgid "Discussion of Jupyter's use in education"
+msgstr "Обсуждение использования Jupyter в образовании"
+
+#: ../../source/index.rst:1 1b8e022860a24edbae67b60f76dd6973
+msgid "`NumFocus <http://www.numfocus.org>`_"
+msgstr "`NumFocus <http://www.numfocus.org>`_"
+
+#: ../../source/index.rst:1 3927a06e4ce5437cad2a1bd5ea356422
+msgid "Promotes world-class, innovative, open source scientific software"
+msgstr ""
+
+#: ../../source/index.rst:1 e601469b33c74ce9823a031a32a8f9a9
+msgid ""
+"`Donate to Project Jupyter <https://numfocus.salsalabs.org/donate-to-jupyter/"
+"index.html>`_"
+msgstr ""
+"`Пожертвовать проекту Jupyter <https://numfocus.salsalabs.org/donate-to-jupyter/"
+"index.html>`_"
+
+#: ../../source/index.rst:1 545710f5206843d0a607dcf2c6492e3d
+msgid "Please contribute to open science collaboration and sustainability"
+msgstr ""
+
+#: ../../source/index.rst:199 8c2b8f0774474e179bdde6dc53235b2c
+msgid "Indices and tables"
+msgstr "Индексы и таблицы"
+
+#: ../../source/index.rst:201 6a78a092e5194c06bc99c3d5e6c1774e
+msgid ":ref:`genindex`"
+msgstr ":ref:`genindex`"
+
+#: ../../source/index.rst:202 fa20a8f5fdba4293ac5c54289ccdb871
+msgid ":ref:`glossary`"
+msgstr ":ref:`glossary`"
+
+#: ../../source/index.rst:203 f1d6e9c2a50b4630aa93cd61addc4080
+msgid ":ref:`search`"
+msgstr ":ref:`search`"
