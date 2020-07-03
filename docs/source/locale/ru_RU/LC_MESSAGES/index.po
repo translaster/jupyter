@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-01 16:01+0000\n"
-"PO-Revision-Date: 2020-07-03 16:47+0500\n"
+"PO-Revision-Date: 2020-07-03 17:01+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -69,7 +69,7 @@ msgstr ":doc:`Руководства для участников <contributor/co
 
 #: ../../source/index.rst:30 7f3f306c237648d0b7a234994e404ac0
 msgid "How to contribute to the projects"
-msgstr ""
+msgstr "Как внести свой вклад в проекты"
 
 #: ../../source/index.rst:32 d36f41b697d545dcb0bdefc37b8dd31a
 msgid ":doc:`Narratives and Use Cases <use-cases/content-user>`"
@@ -77,7 +77,7 @@ msgstr ":doc:`Повествования и варианты использов�
 
 #: ../../source/index.rst:34 bb1bdb8b4efa48db927dad6e1240b98d
 msgid "Narratives of common deployment scenarios"
-msgstr ""
+msgstr "Описание общих сценариев развертывания"
 
 #: ../../source/index.rst:36 f4467947b0c84fc0b9765f67774ba806
 msgid ":doc:`Release Notes <releases>`"
@@ -85,7 +85,7 @@ msgstr ":doc:`Примечания к выпуску <releases>`"
 
 #: ../../source/index.rst:38 c734ad092e5249faadc2b95d2109fa58
 msgid "New features, upgrades, deprecation notes, and bug fixes"
-msgstr ""
+msgstr "Новые функции, обновления, заметки об амортизации и исправления ошибок"
 
 #: ../../source/index.rst:40 3f1c20b8aacc40bfb22c0de28e3745b2
 msgid ":doc:`IPython <ipython/content-ipython>`"
@@ -118,7 +118,7 @@ msgstr ":doc:`Дополнительная <migrating>`"
 
 #: ../../source/index.rst:54 9985efef799b4ec291d5dd2796045541
 msgid "Documentation for advanced use-cases"
-msgstr ""
+msgstr "Документация для расширенных вариантов использования"
 
 #: ../../source/index.rst:57 9d56872692ef45a68ed6488b5c486920
 msgid "Sub-project documentation"
@@ -156,15 +156,15 @@ msgstr ""
 
 #: ../../source/index.rst:72 7b296cd1a6ff4c90b88ec5a63a91e3f8
 msgid "`dockerspawner <https://github.com/jupyter/dockerspawner>`_"
-msgstr ""
+msgstr "`dockerspawner <https://github.com/jupyter/dockerspawner>`_"
 
 #: ../../source/index.rst:73 288f2029f4b045fdba16d970f8330ccd
 msgid "`ldapauthenticator <https://github.com/jupyter/ldapauthenticator>`_"
-msgstr ""
+msgstr "`ldapauthenticator <https://github.com/jupyter/ldapauthenticator>`_"
 
 #: ../../source/index.rst:74 6248048626554ea4b3ce35e877f32e30
 msgid "`oauthenticator <https://github.com/jupyter/oauthenticator>`_"
-msgstr ""
+msgstr "`oauthenticator <https://github.com/jupyter/oauthenticator>`_"
 
 #: ../../source/index.rst:75 b8b7832a4bce477f9343a592b7f77e39
 msgid "`sudospawner <https://github.com/jupyter/sudospawner>`_"
@@ -176,7 +176,7 @@ msgstr "Обучение"
 
 #: ../../source/index.rst:80 f4acb94a8d30480cb38a8b53a929ba63
 msgid "`nbgrader <http://nbgrader.readthedocs.io/en/latest>`_"
-msgstr ""
+msgstr "`nbgrader <http://nbgrader.readthedocs.io/en/latest>`_"
 
 #: ../../source/index.rst:83 938eede4473a4703b143ccaf819736f9
 msgid "Conversion and Formatting"
@@ -236,11 +236,11 @@ msgstr "Архитектура"
 
 #: ../../source/index.rst:106 82cc1858e7914a66b79cfaa2ba1a16f6
 msgid "`jupyter_client <http://jupyter-client.readthedocs.io/en/latest>`_"
-msgstr ""
+msgstr "`jupyter_client <http://jupyter-client.readthedocs.io/en/latest>`_"
 
 #: ../../source/index.rst:107 51f148dae4624d56a6225d088f6f6fea
 msgid "`jupyter_core <http://jupyter-core.readthedocs.io/en/latest>`_"
-msgstr ""
+msgstr "`jupyter_core <http://jupyter-core.readthedocs.io/en/latest>`_"
 
 #: ../../source/index.rst:110 fb5235bda5894872900e8a0059b8c7f0
 msgid "Deployment"
@@ -248,19 +248,20 @@ msgstr "Развертывание"
 
 #: ../../source/index.rst:112 6ffba4a779fc4573ae480f4b7e82062f
 msgid "`docker-stacks <https://github.com/jupyter/docker-stacks>`_"
-msgstr ""
+msgstr "`docker-stacks <https://github.com/jupyter/docker-stacks>`_"
 
 #: ../../source/index.rst:113 9999ae0e64654cd088e586e196d88164
 msgid "`jupyter-sphinx-theme <https://github.com/jupyter/jupyter-sphinx-theme>`_"
-msgstr ""
+msgstr "`jupyter-sphinx-theme <https://github.com/jupyter/jupyter-sphinx-theme>`_"
 
 #: ../../source/index.rst:114 1faa2b252ef944979acdc942dd655680
 msgid "`kernel_gateway <http://jupyter-kernel-gateway.readthedocs.io/en/latest>`_"
 msgstr ""
+"`kernel_gateway <http://jupyter-kernel-gateway.readthedocs.io/en/latest>`_"
 
 #: ../../source/index.rst:115 dbfe79ff0859421fa936ff0829251647
 msgid "`nbviewer <https://github.com/jupyter/nbviewer>`_"
-msgstr ""
+msgstr "`nbviewer <https://github.com/jupyter/nbviewer>`_"
 
 #: ../../source/index.rst:116 4a2d0a2f69534e93aae0a124e7cdab25
 msgid "`tmpnb <https://github.com/jupyter/tmpnb>`_"
@@ -316,7 +317,7 @@ msgstr "Узнайте больше о IPython"
 
 #: ../../source/index.rst:1 bfb679abaf874967bb7f2dfb449ba914
 msgid "`jupyter/help repo <https://github.com/jupyter/help>`_"
-msgstr ""
+msgstr "`jupyter/репозиторий справки <https://github.com/jupyter/help>`_"
 
 #: ../../source/index.rst:1 da7a447618104880b0b522978d33de42
 msgid "Start here for help and support questions"
@@ -329,13 +330,15 @@ msgstr ""
 
 #: ../../source/index.rst:1 a5527873be9f400e813c71d9dcd7c825
 msgid "General discussion of Jupyter's use"
-msgstr ""
+msgstr "Общее обсуждение использования Jupyter"
 
 #: ../../source/index.rst:1 d76b4702ec4340cbacff04468f0cf0b6
 msgid ""
 "`Jupyter in Education group <https://groups.google.com/forum/#!forum/jupyter-"
 "education>`_"
 msgstr ""
+"`Jupyter в образовательной группе <https://groups.google.com/forum/#!forum/"
+"jupyter-education>`_"
 
 #: ../../source/index.rst:1 051c061858d649e8a140543d1102f6bb
 msgid "Discussion of Jupyter's use in education"
@@ -348,6 +351,8 @@ msgstr "`NumFocus <http://www.numfocus.org>`_"
 #: ../../source/index.rst:1 3927a06e4ce5437cad2a1bd5ea356422
 msgid "Promotes world-class, innovative, open source scientific software"
 msgstr ""
+"Продвигает научное программное обеспечение мирового класса, инновационное, с "
+"открытым исходным кодом"
 
 #: ../../source/index.rst:1 e601469b33c74ce9823a031a32a8f9a9
 msgid ""
@@ -360,6 +365,8 @@ msgstr ""
 #: ../../source/index.rst:1 545710f5206843d0a607dcf2c6492e3d
 msgid "Please contribute to open science collaboration and sustainability"
 msgstr ""
+"Пожалуйста, внесите свой вклад в открытое научное сотрудничество и устойчивое "
+"развитие"
 
 #: ../../source/index.rst:199 8c2b8f0774474e179bdde6dc53235b2c
 msgid "Indices and tables"
