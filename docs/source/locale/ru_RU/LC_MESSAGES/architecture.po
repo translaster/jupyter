@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-09 11:43+0000\n"
-"PO-Revision-Date: 2020-07-03 14:41+0500\n"
+"PO-Revision-Date: 2020-07-07 17:00+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -50,12 +50,15 @@ msgid ""
 "interact. When we discuss ``IPython``, we talk about two fundamental "
 "roles:"
 msgstr ""
+"Этот раздел посвящен IPython и блокноту Jupyter и тому, как они "
+"взаимодействуют. Когда мы обсуждаем ``IPython`` - мы говорим о двух "
+"фундаментальных ролях:"
 
 # 676993980a9e4a9082f9f313e09af108
 #: ../../source/architecture/how_jupyter_ipython_work.rst:12
 #: efbc9c82efb3494eb0ef46533d4c0924
 msgid "Terminal IPython as the familiar REPL"
-msgstr ""
+msgstr "Терминал IPython в качестве знакомого REPL"
 
 # 5164fcd91a8a4700ac734562245773ad
 #: ../../source/architecture/how_jupyter_ipython_work.rst:13
@@ -64,6 +67,8 @@ msgid ""
 "The IPython kernel that provides computation and communication with the "
 "frontend interfaces, like the notebook"
 msgstr ""
+"Ядро IPython, обеспечивающее вычисления и связь с интерфейсами "
+"фронтенда, например с блокнотом"
 
 # e79b4b9cf0d4461e8c91e35c54941346
 #: ../../source/architecture/how_jupyter_ipython_work.rst:16
@@ -72,6 +77,9 @@ msgid ""
 "Jupyter Notebook and its flexible interface extends the notebook beyond "
 "code to visualization, multimedia, collaboration, and more."
 msgstr ""
+"Jupyter Notebook и его гибкий интерфейс расширяют возможности блокнота "
+"за пределами кода до визуализации, мультимедиа, совместной работы и "
+"многого другого."
 
 # f0e8484a13374e5ba11bc5673feecc30
 #: ../../source/architecture/how_jupyter_ipython_work.rst:20
@@ -86,6 +94,8 @@ msgid ""
 "When you type ``ipython``, you get the original IPython interface, "
 "running in the terminal. It does something like this::"
 msgstr ""
+"Когда вы набираете ``ipython`` - вы получаете оригинальный интерфейс "
+"IPython, работающий в терминале. Он делает что-то вроде этого::"
 
 # 9c51878d67554820815080da49295cb3
 #: ../../source/architecture/how_jupyter_ipython_work.rst:29
@@ -97,6 +107,12 @@ msgid ""
 "and when they've entered it, execute it in the same process. This model "
 "is often called a :term:`REPL`, or Read-Eval-Print-Loop."
 msgstr ""
+"Конечно, это гораздо сложнее, потому что он имеет дело с многострочным "
+"кодом, завершением вкладки с помощью :mod:`eadline`, волшебными "
+"командами и так далее. Но модель похожа на пример кода: запросите у "
+"пользователя какой-то код, и когда он его введет, выполните его в том же "
+"процессе. Эта модель часто называется :term:`REPL` или Read-Eval-Print-"
+"Loop (Чтение-оценка-вывод-петля)."
 
 # 6948d86fd4fd47a1a4ca54d29e72d46e
 #: ../../source/architecture/how_jupyter_ipython_work.rst:36
@@ -117,6 +133,14 @@ msgid ""
 ">`_ sockets; the protocol used between the frontends and the IPython "
 "Kernel is described in :ref:`jupyterclient:messaging`."
 msgstr ""
+"Все остальные интерфейсы -- Notebook, консоль Qt, ``консоль IPython`` в "
+"терминале и сторонние интерфейсы - используют ядро IPython. Ядро IPython "
+"- это отдельный процесс, отвечающий за запуск пользовательского кода и "
+"такие вещи, как вычисление возможных завершений. Интерфейсы, такие как "
+"блокнот или консоль Qt, взаимодействуют с ядром IPython с помощью "
+"сообщений JSON, отправляемых через `ZeroMQ <http://zeromq.org/>`_ "
+"sockets; протокол, используемый между интерфейсами и ядром IPython, "
+"описан в разделе :ref:`jupyterclient:messaging'."
 
 # 6560f963da914c78b12c61e8795a9852
 #: ../../source/architecture/how_jupyter_ipython_work.rst:47
@@ -125,6 +149,8 @@ msgid ""
 "The core execution machinery for the kernel is shared with terminal "
 "IPython:"
 msgstr ""
+"Механизм выполнения ядра для совместного использования ядра с терминалом "
+"IPython:"
 
 # b5bd0a2f608542fe92f8b57ddcb9ea7b
 #: ../../source/architecture/how_jupyter_ipython_work.rst:51
@@ -147,6 +173,11 @@ msgid ""
 "support new languages in the same frontends, by developing kernels in "
 "those languages, and we are refining IPython to make that more practical."
 msgstr ""
+"Эта конструкция была предназначена для облегчения разработки различных "
+"интерфейсов на основе одного и того же ядра, но она также позволила "
+"поддерживать новые языки в одних и тех же интерфейсах, разрабатывая ядра "
+"на этих языках, и мы совершенствуем IPython, чтобы сделать это более "
+"практичным."
 
 # e35918a2fb124784a83c135812faf800
 #: ../../source/architecture/how_jupyter_ipython_work.rst:61
@@ -157,6 +188,10 @@ msgid ""
 "implement only the core execution part. Native kernels implement "
 "execution and communications in the target language:"
 msgstr ""
+"Сегодня существует два способа разработки ядра для другого языка. Ядра-"
+"оболочки повторно используют коммуникационное оборудование IPython и "
+"реализуют только часть выполнения ядра. Нативные ядра реализуют "
+"выполнение и коммуникацию на целевом языке:"
 
 # 3395f44193b54f5cb9b9d380fa4a16bd
 #: ../../source/architecture/how_jupyter_ipython_work.rst:68
@@ -170,18 +205,26 @@ msgid ""
 "by the community using them, like `IJulia <https://github.com/JuliaLang/"
 "IJulia.jl>`_ or `IHaskell <https://github.com/gibiansky/IHaskell>`_."
 msgstr ""
+"Ядра-оболочки обычно легче писать для языков, которые имеют хорошие "
+"оболочки Python, например `octave_kernel <https://pypi.python.org/pypi/"
+"octave_kernel>`_, или языки, где нецелесообразно реализовывать "
+"коммуникационный механизм, например `bash_kernel <https://pypi.python."
+"org/pypi/bash_kernel>`_. Нативные ядра, вероятно, будут лучше "
+"поддерживаться сообществом, использующим их, например `Julia <https://"
+"github.com/JuliaLang/IJulia.jl>`_ или `IHaskell <https://github.com/"
+"gibiansky/IHaskell>`_."
 
 # 59d8323c382a4adeb3d622424943b708
 #: ../../source/architecture/how_jupyter_ipython_work.rst:78
 #: 7928cfc99c54405f8e1e3e8064a17a90
 msgid ":ref:`jupyterclient:kernels`"
-msgstr ""
+msgstr ":ref:`jupyterclient:kernels`"
 
 # 3418914ee39240879155089a0b29a69e
 #: ../../source/architecture/how_jupyter_ipython_work.rst:80
 #: e78549052f6d43869ba3cfbd3a7034c2
 msgid ":ref:`Kernels <kernels-langs>`"
-msgstr ""
+msgstr ":ref:`Ядра <kernels-langs>`"
 
 # 4866548d799b4cfc95159d7494d66afb
 #: ../../source/architecture/how_jupyter_ipython_work.rst:83
@@ -199,6 +242,11 @@ msgid ""
 "your browser to the notebook server, which saves it on disk as a JSON "
 "file with a ``.ipynb`` extension."
 msgstr ""
+"Фронтенд блокнота делает что-то дополнительное. Помимо выполнения кода, "
+"он хранит код и выходные данные вместе с заметками markdown в "
+"редактируемом документе, называемом блокнотом. Когда вы сохраняете его - "
+"он отправляется из Вашего браузера на сервер блокнота, который сохраняет "
+"его на диске в виде файла JSON с расширение ``.ipynb``."
 
 # ce4a6fb377344df295e9512b1d36743c
 #: ../../source/architecture/how_jupyter_ipython_work.rst:93
@@ -210,6 +258,11 @@ msgid ""
 "doesn't know anything about the notebook document: it just gets sent "
 "cells of code to execute when the user runs them."
 msgstr ""
+"Сервер блокнота, а не ядро, отвечает за сохранение и загрузку блокнотов, "
+"поэтому вы можете редактировать блокноты, даже если у вас нет ядра для "
+"этого языка — вы просто не сможете запускать код. Ядро ничего не знает о "
+"документе в блокноте: оно просто получает ячейки кода для выполнения, "
+"когда пользователь запускает их."
 
 # 9041dc2c7e0b46e19e1694f6bb081592
 #: ../../source/architecture/how_jupyter_ipython_work.rst:100
@@ -225,6 +278,9 @@ msgid ""
 "such as HTML, LaTeX, or reStructuredText. This conversion goes through a "
 "series of steps:"
 msgstr ""
+"Инструмент Nbconvert в Jupiter преобразует файлы блокнота в другие "
+"форматы, такие как HTML, LaTeX или reStructuredText. Это преобразование "
+"проходит через ряд шагов:"
 
 # 082ebb9d5777479da8f71672f538c484
 #: ../../source/architecture/how_jupyter_ipython_work.rst:108
@@ -233,6 +289,8 @@ msgid ""
 "Preprocessors modify the notebook in memory. E.g. ExecutePreprocessor "
 "runs the code in the notebook and updates the output."
 msgstr ""
+"Препроцессоры модифицируют блокнот в памяти. Например, препроцессор "
+"Execute запускает код в блокноте и обновляет выходные данные."
 
 # c6be8db7ca164f379d97800723004956
 #: ../../source/architecture/how_jupyter_ipython_work.rst:110
@@ -241,12 +299,14 @@ msgid ""
 "An exporter converts the notebook to another file format. Most of the "
 "exporters use templates for this."
 msgstr ""
+"Экспортер преобразует блокнот в другой формат файла. Большинство "
+"экспортеров используют для этого шаблоны."
 
 # 9de2fa198489488fa316b950d1228fa3
 #: ../../source/architecture/how_jupyter_ipython_work.rst:112
 #: 1486337c796a45b3b8c7b76b779583d7
 msgid "Postprocessors work on the file produced by exporting."
-msgstr ""
+msgstr "Постпроцессоры работают над файлом, полученным при экспорте."
 
 # e00d7f3b870a40879882ee53ed417463
 #: ../../source/architecture/how_jupyter_ipython_work.rst:114
@@ -256,12 +316,15 @@ msgid ""
 "with the HTML exporter. When you give it a URL, it fetches the notebook "
 "from that URL, converts it to HTML, and serves that HTML to you."
 msgstr ""
+"Вебсайт `nbviewer <http://nbviewer.jupyter.org/>`_ использует nbconvert "
+"с экспортером HTML. Когда вы даете ему URL-адрес - он извлекает блокнот "
+"из этого URL-адреса, преобразует его в HTML и передает вам этот HTML-код."
 
 # e30efeea3614465f95ff49220796d182
 #: ../../source/architecture/how_jupyter_ipython_work.rst:119
 #: fcfdde91391349869d1505c25ccb3ffe
 msgid "IPython.parallel"
-msgstr ""
+msgstr "IPython.parallel"
 
 # 074d0dac254c44b58ea96c7b4a451d27
 #: ../../source/architecture/how_jupyter_ipython_work.rst:121
@@ -272,6 +335,10 @@ msgid ""
 "control many individual engines, which are an extended version of the "
 "IPython kernel described above."
 msgstr ""
+"IPython также включает в себя параллельную вычислительную платформу, "
+"`IPython.parallel <https://ipyparallel.readthedocs.io/en/latest/>`_. Это "
+"позволяет управлять многими отдельными движками, которые являются "
+"расширенной версией ядра IPython, описанного выше."
 
 # 0118a72a2b1e4c14800c1c3dd77b6c4e
 #: ../../source/architecture/visual_overview.rst:2
