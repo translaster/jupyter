@@ -4,34 +4,35 @@
 # Documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-04 20:11-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-07-07 17:48+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.6.0\n"
+"Last-Translator: Dmitriy Q <dmitry@atsip.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 2.3.1\n"
 
 # 7c11dbc4811f481794057766800832ee
 #: ../../source/_templates/index.html:2
 msgid "Overview"
-msgstr ""
+msgstr "Обзор"
 
 # 87674d21ac2842d9b2ca32525a06983c
 #: ../../source/_templates/index.html:4
 msgid "Welcome"
-msgstr ""
+msgstr "Добро пожаловать"
 
 # fbe326ee1913477fbbef9e36280cb3d5
 #: ../../source/_templates/index.html:7
 msgid "Start Here"
-msgstr ""
+msgstr "Начните здесь"
 
 # dd871a3570ef4360993c9f5f9a6e9a6f
 #: ../../source/_templates/index.html:13
@@ -41,17 +42,17 @@ msgstr ""
 # 5b38b22813c440bda17aa0cb1015468a
 #: ../../source/_templates/index.html:14
 msgid "Try the notebook"
-msgstr ""
+msgstr "Доверенный блокнот"
 
 # e24d669c50e84c10a9b7d2db8e2a206b
 #: ../../source/_templates/index.html:15
 msgid "Architecture"
-msgstr ""
+msgstr "Архитектура"
 
 # 666d449fc8564f81951df06fb28f857b
 #: ../../source/_templates/index.html:16
 msgid "What is Jupyter?"
-msgstr ""
+msgstr "Что такое Jupyter?"
 
 # b73a8286763d448c8e471e7c19863f07
 #: ../../source/_templates/index.html:17
@@ -61,7 +62,7 @@ msgstr ""
 # 27c32a3a5ae34fba8a569bee972dc21a
 #: ../../source/_templates/index.html:18
 msgid "Narratives of common deployment scenarios"
-msgstr ""
+msgstr "Описание общих сценариев развертывания"
 
 # 073c45ea86594cad8be3d011b9b3b5ed
 # 209be84e7b1c48b59ed8ad4f4ba9bd9e
@@ -69,12 +70,12 @@ msgstr ""
 #: ../../source/_templates/index.html:19 ../../source/_templates/index.html:61
 #: ../../source/_templates/index.html:67
 msgid "IPython"
-msgstr ""
+msgstr "IPython"
 
 # fa896a9ecf334ec59243584de08ebc4c
 #: ../../source/_templates/index.html:20
 msgid "An interactive Python kernel and REPL"
-msgstr ""
+msgstr "Интерактивное ядро Python и REPL"
 
 # d8bfcdc723ba4ff9be620bc7a48c9bbb
 #: ../../source/_templates/index.html:21
@@ -84,7 +85,7 @@ msgstr ""
 # b85884536fe94bbbb0bc361199515e97
 #: ../../source/_templates/index.html:22
 msgid "Documentation for users"
-msgstr ""
+msgstr "Документация для пользователей"
 
 # 187c62af4f4946368cc1912dc4ed72bd
 #: ../../source/_templates/index.html:25
@@ -94,7 +95,7 @@ msgstr ""
 # 01be44444a6944f8b66f5d33ecada473
 #: ../../source/_templates/index.html:26
 msgid "Sustainability and growth"
-msgstr ""
+msgstr "Устойчивость и рост"
 
 # 1c7430b771f34dea888a279f5159cfd1
 #: ../../source/_templates/index.html:27
@@ -104,32 +105,32 @@ msgstr ""
 # 060fa8d986484cc5920822becdc72633
 #: ../../source/_templates/index.html:28
 msgid "How to contribute to the projects"
-msgstr ""
+msgstr "Как внести свой вклад в проекты"
 
 # 4a62e635396944ce8ac3b0a846bee09c
 #: ../../source/_templates/index.html:29
 msgid "Release Notes"
-msgstr ""
+msgstr "Примечания к выпуску"
 
 # e008293ddb6c4b84ba2ae3c01af0ddd8
 #: ../../source/_templates/index.html:30
 msgid "New features, upgrades, deprecation notes, and bug fixes"
-msgstr ""
+msgstr "Новые функции, обновления, заметки об амортизации и исправления ошибок"
 
 # 632f425094284248a3904601833d3282
 #: ../../source/_templates/index.html:31
 msgid "Reference"
-msgstr ""
+msgstr "Справочник"
 
 # 60a7fa2b852447948397bee452574352
 #: ../../source/_templates/index.html:32
 msgid "APIs"
-msgstr ""
+msgstr "API"
 
 # 078a4e5b447d464f980c754d79bd0d8f
 #: ../../source/_templates/index.html:33
 msgid "Contents"
-msgstr ""
+msgstr "Содержание"
 
 # fe624220d72f4eb68b635b704ce7857d
 #: ../../source/_templates/index.html:34
@@ -144,7 +145,7 @@ msgstr ""
 # 82990c9abe5a481b8e029e99d56eda97
 #: ../../source/_templates/index.html:45
 msgid "Jupyter Notebook"
-msgstr ""
+msgstr "Jupyter Notebook"
 
 # 0fa103f6933a4fae8e861337f0dc4dfe
 #: ../../source/_templates/index.html:46
@@ -159,7 +160,7 @@ msgstr ""
 # e58d1a93d24a4dffb852da36feb32d2d
 #: ../../source/_templates/index.html:49
 msgid "JupyterHub"
-msgstr ""
+msgstr "JupyterHub"
 
 # b8c2f78b5e064757a6f7fd58b7a47d83
 #: ../../source/_templates/index.html:50
@@ -280,4 +281,3 @@ msgstr ""
 #: ../../source/_templates/index.html:83
 msgid "jupyter-js-services"
 msgstr ""
-
