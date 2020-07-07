@@ -4,19 +4,20 @@
 # Documentation package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-09 11:43+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2020-07-07 17:09+0500\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
+"Last-Translator: Dmitriy Q <dmitry@atsip.ru>\n"
+"Language-Team: TranslAster <https://github.com/translaster>\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 2.3.1\n"
 
 #: ../../source/contributor/content-contributor.rst:2
 #: 03859b1b5045413e91671951d71e0b8f
@@ -38,9 +39,9 @@ msgid ""
 "Project Jupyter has seen steady growth over the past several years, and "
 "it is wonderful to see the many ways people are using these projects. As "
 "a result of this rapid expansion, our project maintainers are balancing "
-"many requirements, needs, and resources. We ask contributors to take some"
-" time to become familiar with our contribution guides and spend some time"
-" learning about our project communication and workflow."
+"many requirements, needs, and resources. We ask contributors to take "
+"some time to become familiar with our contribution guides and spend some "
+"time learning about our project communication and workflow."
 msgstr ""
 
 # b8bdcf9762b9420b982a51c87522bb59
@@ -58,8 +59,8 @@ msgstr ""
 #: c35196bdf6184975bd0e8786bb7491dc
 msgid ""
 "We are very pleased to have you as a contributor, and we hope you will "
-"find valuable your impact on the projects. **Thank you** for sharing your"
-" interests, ideas, and skills with us."
+"find valuable your impact on the projects. **Thank you** for sharing "
+"your interests, ideas, and skills with us."
 msgstr ""
 
 # 135f6b0b508342ce97970e34fc45d3e7
@@ -74,8 +75,8 @@ msgstr ""
 msgid ""
 "Absolutely ✅. There are always ways to contribute to this community! "
 "Whether it is is contributing code, improving documentation and "
-"communications, teaching others, or participating in conversations in the"
-" community, we welcome and value your contribution!"
+"communications, teaching others, or participating in conversations in "
+"the community, we welcome and value your contribution!"
 msgstr ""
 
 # 98869a235e8a4a889da32cec31b99573
@@ -108,9 +109,9 @@ msgid ""
 "to use the tools. It also makes it easier to teach others, and to "
 "maintain and improve the code itself. There are many ways to improve "
 "documentation, such as **reading tutorials and reporting confusing "
-"parts**, **finding type-os and minor errors in docs**, **writing your own"
-" guides and tutorials**, **improving docstrings within the code**, and "
-"**improving documentation style and design**."
+"parts**, **finding type-os and minor errors in docs**, **writing your "
+"own guides and tutorials**, **improving docstrings within the code**, "
+"and **improving documentation style and design**."
 msgstr ""
 
 # 9e1b5f837c5544e0b1b10324e31869ae
@@ -142,9 +143,9 @@ msgstr ""
 #: ../../source/contributor/content-contributor.rst:67
 #: b35bc9db2d424ca8b84f430cbe6ddd3d
 msgid ""
-"We recommend checking out the :ref:`developer-guide` for more information"
-" about how you can find the right project to contribute to, and where to "
-"go next."
+"We recommend checking out the :ref:`developer-guide` for more "
+"information about how you can find the right project to contribute to, "
+"and where to go next."
 msgstr ""
 
 # 25a6e078d67442a2ba84ead181c460b3
@@ -157,14 +158,14 @@ msgstr ""
 #: ../../source/contributor/content-contributor.rst:73
 #: a65ea6a28a1647ceac35c3fae4af439d
 msgid ""
-"The most important part of Jupyter is its community - this is a large and"
-" diverse group of people spread across the globe. One of the best ways to"
-" contribute to Jupyter is to simply be a positive and helpful member of "
-"this community. Whether it **participating in online conversations**, "
-"**offering to help others**, **coming to community meetings**, or "
-"**teaching others about Jupyter**, there are many ways to improve the "
-"Jupyter community. For more information about this, we recommend starting"
-" with the :ref:`community-guide`."
+"The most important part of Jupyter is its community - this is a large "
+"and diverse group of people spread across the globe. One of the best "
+"ways to contribute to Jupyter is to simply be a positive and helpful "
+"member of this community. Whether it **participating in online "
+"conversations**, **offering to help others**, **coming to community "
+"meetings**, or **teaching others about Jupyter**, there are many ways to "
+"improve the Jupyter community. For more information about this, we "
+"recommend starting with the :ref:`community-guide`."
 msgstr ""
 
 # 593c43f0e5764d01a171016560a00f00
@@ -177,7 +178,7 @@ msgstr ""
 #: ../../source/contributor/contrib_guide_blog.rst:6
 #: b07f24f4a0e74848bb59eb4516098595
 msgid "Contents"
-msgstr ""
+msgstr "Содержание"
 
 # c6416f19a43d4ae1a19bb1f7b9888966
 #: ../../source/contributor/contrib_guide_blog.rst:9
@@ -214,8 +215,8 @@ msgstr ""
 #: dcc4775e4c8d4f19b02b42b866b9ab50
 msgid ""
 "Jupyter's blog uses the Ghost blog platform for its contributor "
-"flexibility and ease of use. Jupyter's blog is deployed at "
-"`<https://blog.jupyter.org>`_."
+"flexibility and ease of use. Jupyter's blog is deployed at `<https://"
+"blog.jupyter.org>`_."
 msgstr ""
 
 # 43151242cf8847c792841f97ae59e095
@@ -296,8 +297,8 @@ msgstr ""
 msgid ""
 "Alway check in the metadata fields that a blog post has a title and a "
 "canonical URL. It is possible to put the date in the canonical URL, in "
-"particular for events like jupyter-day, that can occur several times. The"
-" date of the event can differ from the date of the blog post."
+"particular for events like jupyter-day, that can occur several times. "
+"The date of the event can differ from the date of the blog post."
 msgstr ""
 
 # 275b539c7a0b4de092e7cbf9b0d07286
@@ -306,9 +307,9 @@ msgstr ""
 msgid ""
 "Once a post is published, **never** change the post's title or the url. "
 "These changes will break links of tweets and RSS feeds that have already "
-"referenced the existing, published URL. Keep in mind that when publishing"
-" some platforms cache the url immediately; as a result changing the title"
-" will direct people to a 404 page."
+"referenced the existing, published URL. Keep in mind that when "
+"publishing some platforms cache the url immediately; as a result "
+"changing the title will direct people to a 404 page."
 msgstr ""
 
 # 7c80a8faf2824bd4a6a0a8848026e336
@@ -332,8 +333,8 @@ msgstr ""
 #: c13c39a39c2d48d385a9db51b3d56805
 msgid ""
 "Try not to link to external images. If you want to put an image in the "
-"post, insert ``![]()`` in the editor view and drag and drop an image from"
-" your desktop into the newly created field in the preview. External "
+"post, insert ``![]()`` in the editor view and drag and drop an image "
+"from your desktop into the newly created field in the preview. External "
 "images can change, and can break the blog post if they are taken down. "
 "This cannot append if you drag and drop images. Moreover, these images  "
 "will be served from the same CDN (Content Delivery Network) as the blog, "
@@ -347,8 +348,8 @@ msgid ""
 "The featured image you see at the top of a blog posts is set from within "
 "the metadata field, not using the `![]()`. The featured image is treated "
 "differently than inlined images by many feedreaders (especially on "
-"mobile) and allows a user on a slow connection to read the content of the"
-" blog earlier, which is a much better experience for the user than "
+"mobile) and allows a user on a slow connection to read the content of "
+"the blog earlier, which is a much better experience for the user than "
 "waiting for the featured image to render."
 msgstr ""
 
@@ -396,9 +397,9 @@ msgstr ""
 #: 0dda5f5f2f1b48c79ca21cc6cee6e2ee
 msgid ""
 "Usually an editor or admin will take care of publishing the post. The "
-"task of the Editor/Admin is to check all metadata are correctly set, that"
-" no external images are used, as well as all other quality check describe"
-" before."
+"task of the Editor/Admin is to check all metadata are correctly set, "
+"that no external images are used, as well as all other quality check "
+"describe before."
 msgstr ""
 
 # 809dc486262e437ebb95ce53542c0b79
@@ -423,8 +424,9 @@ msgstr ""
 #: ../../source/contributor/contrib_guide_blog.rst:116
 #: 31bf62378ed24aaa8590a974fcaf095b
 msgid ""
-"Blog subscribers may receive notification at every update. So use updates"
-" and fixes parsimoniously. It is OK to wait a few hours to fix a typo."
+"Blog subscribers may receive notification at every update. So use "
+"updates and fixes parsimoniously. It is OK to wait a few hours to fix a "
+"typo."
 msgstr ""
 
 # ab638c99ec3c460abfaad8d60a1e8800
@@ -458,9 +460,4 @@ msgstr ""
 #: ../../source/contributor/contrib_guide_blog.rst:134
 #: f3c2a87a3408474e874df7d84853eaad
 msgid "Website"
-msgstr ""
-
-# 621a2e3dd84a4243839c3502e29814d9
-#~ msgid "Contributor Guides"
-#~ msgstr ""
-
+msgstr "Веб-сайт"
