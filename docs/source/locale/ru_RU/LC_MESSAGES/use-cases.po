@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-09 19:33+0000\n"
-"PO-Revision-Date: 2020-07-07 17:54+0500\n"
+"PO-Revision-Date: 2020-07-09 16:30+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,12 +22,12 @@ msgstr ""
 # c7a3e6ef18974fdf9970ec0c8cf6b1a4
 #: ../../source/use-cases/content-user.rst:2 2a808eee4c9947c7986b4e0559de01c0
 msgid "Narratives and Use Cases"
-msgstr ""
+msgstr "Повествования и варианты использования"
 
 # 74a57ce9257b4dcf8cd496659310f050
 #: ../../source/use-cases/content-user.rst:5 330c04ca800f4418809aa20e51bdbe6c
 msgid "What are Narratives?"
-msgstr ""
+msgstr "Что такое рассказы?"
 
 # 4d5ab784c1c0495a953ec916572ab868
 #: ../../source/use-cases/content-user.rst:6 927e629bfd144b89af9a8d9b1791e244
@@ -38,11 +38,16 @@ msgid ""
 "your deployment, and installation and configuration tips so that others can "
 "learn from your experiences."
 msgstr ""
+"Повествования являются *совместными*, *совместимыми*, *публикуемыми* и "
+"*воспроизводимыми*. Мы считаем, что они помогают как вам, так и другим "
+"исследователям, делясь своим использованием проектов Jupyter, техническими "
+"особенностями вашего развертывания и советами по установке и настройке, чтобы "
+"другие могли учиться на вашем опыте."
 
 # 38991fbc6546442fac82338471a16196
 #: ../../source/use-cases/data_science.rst:5 31c24c82daa141dd953b1ca17c065636
 msgid "Jupyter for Data Science"
-msgstr ""
+msgstr "Jupyter для Data Science"
 
 # 9b4934127359431a8eae07c4e6d35177
 #: ../../source/use-cases/data_science.rst:7 a1be035fabcc47f6b444f5134b4e4999
@@ -52,26 +57,31 @@ msgid ""
 "comprehensive or unbiased, but rather to provide an opinionated view of the "
 "usage of Jupyter in data science based on our interactions with users."
 msgstr ""
+"Цель этой страницы - выделить ядра и другие проекты, имеющие центральное "
+"значение для использования Jupiter в науке о данных. Эта страница не "
+"предназначена для того, чтобы быть всесторонней или беспристрастной, а скорее "
+"для того, чтобы предоставить самоуверенный взгляд на использование Jupiter в "
+"науке о данных, основанный на нашем взаимодействии с пользователями."
 
 # 79646aee3a3a4e799435131c32b9fa38
 #: ../../source/use-cases/data_science.rst:12 b0b489cc9d884d81a6c6da6ad2a3e96d
 msgid "The following Jupyter kernels are widely used in data science:"
-msgstr ""
+msgstr "Следующие ядра Jupyter широко используются в науке о данных:"
 
 # 61a8d058c87947fcb61ad48ca8b85c1c
 #: ../../source/use-cases/data_science.rst:14 57d55881b2634196a3ee4b2e9d24b272
 msgid "python"
-msgstr ""
+msgstr "python"
 
 # e1ab9a92301d44bbb0e3792b6ed0490d
 #: ../../source/use-cases/data_science.rst:15 72741acfbb624f6492a6a552fd20764a
 msgid "IPython (`GitHub Repo <https://github.com/ipython/ipykernel>`__)"
-msgstr ""
+msgstr "IPython (`GitHub-репозиторий <https://github.com/ipython/ipykernel>`__)"
 
 # 0d1a6ecffddc475596df6bc7d7ab6ac9
 #: ../../source/use-cases/data_science.rst:18 8a120840ac3d4bc39de546b14409a333
 msgid "R"
-msgstr ""
+msgstr "R"
 
 # b617b75cdf6b4f09bd81a46e54f67b4c
 #: ../../source/use-cases/data_science.rst:17 015561625c6247d7aaf547776e682945
@@ -79,26 +89,30 @@ msgid ""
 "IRkernel (`Documentation <https://irkernel.github.io/>`__, `GitHub Repo "
 "<https://github.com/IRkernel/IRkernel>`__)"
 msgstr ""
+"IRkernel (`Документация <https://irkernel.github.io/>`__, `GitHub-репозиторий "
+"<https://github.com/IRkernel/IRkernel>`__)"
 
 # 6c033e0b10c943c7b1d015a324bd5043
 #: ../../source/use-cases/data_science.rst:18 334e326d1e994748b01825d2e6f11743
 msgid "IRdisplay (`GitHub Repo <https://github.com/IRkernel/IRdisplay>`__)"
 msgstr ""
+"IRdisplay (`GitHub-репозиторий <https://github.com/IRkernel/IRdisplay>`__)"
 
 # b5577205b7ea4a5e863601eedc8826fc
 #: ../../source/use-cases/data_science.rst:19 a9aa6ad530994a028cc15903ce5540b4
 msgid "repr (`GitHub Repo <https://github.com/IRkernel/repr>`__)"
-msgstr ""
+msgstr "repr (`GitHub-репозиторий <https://github.com/IRkernel/repr>`__)"
 
 # e204fea1f5694325a9ebb16297f8efff
 #: ../../source/use-cases/data_science.rst:21 8e7b6002a9f74bfdb007b3f65e28a574
 msgid "Julia"
-msgstr ""
+msgstr "Julia"
 
 # aee5a4b089b04f0080ad7ba2a1f5031f
 #: ../../source/use-cases/data_science.rst:21 f7ea68750e4b44a487b5533b16c5a447
 msgid "IJulia Kernel (`GitHub Repo <https://github.com/JuliaLang/IJulia.jl>`__)"
 msgstr ""
+"Ядро IJulia (`GitHub-репозиторий <https://github.com/JuliaLang/IJulia.jl>`__)"
 
 # 7bbb9b36f2f84459aef3fb97869ce6b9
 #: ../../source/use-cases/data_science.rst:22 c963bab50af7435987d0fbfaaecbed38
@@ -106,16 +120,18 @@ msgid ""
 "Interactive Widgets (`GitHub Repo <https://github.com/JuliaLang/Interact."
 "jl>`__)"
 msgstr ""
+"Интерактивные виджеты (`GitHub-репозиторий <https://github.com/JuliaLang/"
+"Interact.jl>`__)"
 
 # 1b6b2ad9e6f3428dbf5172927a9169a9
 #: ../../source/use-cases/data_science.rst:23 7f33c49e250742008d70b37b8dff1aae
 msgid "Bash (`GitHub Repo <https://github.com/takluyver/bash_kernel>`__)"
-msgstr ""
+msgstr "Bash (`GitHub-репозиторий <https://github.com/takluyver/bash_kernel>`__)"
 
 # 37b3885a41144745a83ca6b4cd08778e
 #: ../../source/use-cases/education.rst:2 e7920bfb8d604e9caf45c54195ff250b
 msgid "Jupyter in Education"
-msgstr ""
+msgstr "Jupyter в образовании"
 
 # 537dc039d5b140bdaf1f53e9a7e508ab
 # d387c0b434c84dd2842f3f53e48eaca9
@@ -133,11 +149,13 @@ msgid ""
 "We're actively working on this section of the documentation to improve it for "
 "you. Thanks for your patience."
 msgstr ""
+"Мы активно работаем над этим разделом документации, чтобы улучшить его для "
+"вас. Спасибо за ваше терпение."
 
 # e5ea9daf28014d91919d78648a1a3c6c
 #: ../../source/use-cases/enterprise.rst:5 7f1aea8e39534500977018529bfd6b89
 msgid "Jupyter in the Enterprise"
-msgstr ""
+msgstr "Jupyter на предприятии"
 
 # e6075014f1a94cb08daccbf89fa4bf7e
 # 0d285e91e9e34a579165b524a3bc024e
@@ -173,6 +191,10 @@ msgid ""
 "science aims to unearth the hidden value of those digital assets, which are "
 "typically siloed, uncategorized, and inaccessible to humans."
 msgstr ""
+"Предприятия, особенно те, которые начали свой путь \"цифровой трансформации\", "
+"производят все возрастающие объемы данных. Корпоративная наука о данных "
+"стремится выявить скрытую ценность этих цифровых активов, которые обычно "
+"изолированы, неклассифицированы и недоступны для людей."
 
 # e9407a7e2195481583ac70537e535b51
 #: ../../source/use-cases/enterprise.rst:17 da38639c4fc543dca3b72663d4928057
@@ -183,11 +205,16 @@ msgid ""
 "*your* organization's processes and system landscapes, by providing real-world "
 "examples and showcases."
 msgstr ""
+"Jupiter и JupyterHub могут играть важную роль в соответствующих инициативах, "
+"особенно в компаниях с устоявшейся культурой открытого исходного кода. Цель "
+"этой страницы состоит в том, чтобы предоставить вам идеи о том, как технология "
+"Jupyter может вписаться в процессы и системные ландшафты *вашей* организации, "
+"предоставляя реальные примеры и демонстрации."
 
 # 92f850f3933a4c82972254363d00920d
 #: ../../source/use-cases/enterprise.rst:24 3cba801f9ac24b0e94c153927ab4df22
 msgid "Example Use-Cases"
-msgstr ""
+msgstr "Примеры использования"
 
 # 1124b2efb8e5441a9bae96db904a4d13
 #: ../../source/use-cases/enterprise.rst:26 0e486ce3ea624612a273a0ac780014d4
@@ -195,6 +222,8 @@ msgid ""
 "`Beyond Interactive: Notebook Innovation at Netflix <https://medium.com/"
 "netflix-techblog/notebook-innovation-591ee3221233>`_"
 msgstr ""
+"`Вне интерактивности: инновации Notebook в Netflix <https://medium.com/netflix-"
+"techblog/notebook-innovation-591ee3221233>`_"
 
 # a032d148013249c19a4b7997d144d6e5
 #: ../../source/use-cases/enterprise.rst:28 124c9c726fd6457aa42a87119336b418
@@ -202,6 +231,8 @@ msgid ""
 "`Part 2: Scheduling Notebooks at Netflix <https://medium.com/netflix-techblog/"
 "scheduling-notebooks-348e6c14cfd6>`_"
 msgstr ""
+"`Часть 2: Планирование блокнотов в Netflix <https://medium.com/netflix-"
+"techblog/scheduling-notebooks-348e6c14cfd6>`_"
 
 # 3ea08bce807d455c97b4e99507bf7bc1
 #: ../../source/use-cases/enterprise.rst:30 bc248ff76c624a708a0bd02f4570077f
@@ -210,11 +241,15 @@ msgid ""
 "Jupyter <https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/"
 "detail/68405>`_ (JupyterCon 2018 · `video <https://youtu.be/KVGrACWVUgE>`_)"
 msgstr ""
+"`Блокноты PayPal: наука о данных и машинное обучение в масштабе, работающие на "
+"Jupyter <https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/"
+"detail/68405>`_ (JupyterCon 2018 · `video <https://youtu.be/KVGrACWVUgE>`_)"
 
 #: ../../source/use-cases/enterprise.rst:32 c4103b6020664d56b12e2ebfd5a50b23
 msgid ""
 "`Bloomberg BQuant platform <https://mingze-gao.com/posts/bloomberg-bquant/>`_"
 msgstr ""
+"`Платформа Bloomberg BQuant <https://mingze-gao.com/posts/bloomberg-bquant/>`_"
 
 # a5be50b562b649af8ab4406992e4e1cb
 #: ../../source/use-cases/enterprise.rst:34 40e8c6dbb80b40b9884c5fc21da9e65c
@@ -222,6 +257,8 @@ msgid ""
 "`Jupyter & Python in the corporate LAN <https://medium.com/@olivier.borderies/"
 "jupyter-python-in-the-corporate-lan-109e2ffde897>`_"
 msgstr ""
+"`Jupyter & Python в корпоративной локальной сети <https://medium.com/@olivier."
+"borderies/jupyter-python-in-the-corporate-lan-109e2ffde897>`_"
 
 # 6319bc990dcd4dca8a8d84f86ed2742e
 #: ../../source/use-cases/enterprise.rst:36 8060ae5b9e0243e3a3c304ec2517b01a
@@ -230,6 +267,8 @@ msgid ""
 "jhermann/jupyter-by-example/blob/master/complete-scenarios/devops-intelligence."
 "ipynb>`_"
 msgstr ""
+"`Интеллект DevOps с JupyterHub <https://nbviewer.jupyter.org/github/jhermann/"
+"jupyter-by-example/blob/master/complete-scenarios/devops-intelligence.ipynb>`_"
 
 # 9684506604dc48f8bf0349b784ab1317
 #: ../../source/use-cases/enterprise.rst:40 4ea3811b2ec64d87b88376e23868f9f2
@@ -238,11 +277,14 @@ msgid ""
 "you. If you've got a suggestion for a resource that would be helpful, please "
 "create an issue or a pull request!"
 msgstr ""
+"Мы активно работаем над этим разделом документации, чтобы улучшить его для "
+"вас. Если у вас есть предложение для ресурса, которое было бы полезно, "
+"пожалуйста, создайте issue или pull request!"
 
 # a2f2ed36e51e49eb8e0dafad92b083dd
 #: ../../source/use-cases/narrative-hub.rst:2 72f71b6bd6f240d38e5e1849df82b7f4
 msgid "JupyterHub Narratives"
-msgstr ""
+msgstr "Рассказы о JupyterHub"
 
 # 5fd29ccb39f546d3b5c56980d35d5443
 #: ../../source/use-cases/narrative-hub.rst:10 f9efd02c19204ac38f91fd8e8313b216
@@ -253,6 +295,12 @@ msgid ""
 "teams, and service providers. In these Narratives, we will look at differences "
 "in deployment, deployment advantages, and best practices."
 msgstr ""
+"Повествования JupyterHub исследуют развертывание и масштабирование Jupyter "
+"Notebook для группы пользователей. JupyterHub обеспечивает гибкость в "
+"настройке и развертывании, что делает JupyterHub ценным для образовательных, "
+"отраслевых исследовательских групп и поставщиков услуг. В этих описаниях мы "
+"рассмотрим различия в развертывании, преимущества развертывания и лучшие "
+"практики."
 
 # 6a00f5a8c10b4becba9ae2de4e09920d
 # d11d3f4bb4654347884f0e30aeff7efc
@@ -262,12 +310,12 @@ msgstr ""
 #: ../../source/use-cases/narrative-other.rst:15 2d7254a2939b49c3b79c227c8c6b50c1
 #: 984467748a2349d99fdec30f57f2ad20 a76509f7965646cf8b81c187bfbfc7b0
 msgid "Narrative examples"
-msgstr ""
+msgstr "Повествовательные примеры"
 
 # 37667e2cc4db44b7840b61219286817c
 #: ../../source/use-cases/narrative-hub.rst:19 ca76c59e147e4deb9dd55d182a92ff01
 msgid "A basic JupyterHub deployment"
-msgstr ""
+msgstr "Базовое развертывание JupyterHub"
 
 # 9efafc8059f74b20a96a0f2cf057b7ba
 #: ../../source/use-cases/narrative-hub.rst:20 fba09fa6b3e941f5abf7e8d2fc6f0455
@@ -275,6 +323,8 @@ msgid ""
 "A `reference deployment of JupyterHub using Docker <https://github.com/"
 "jupyterhub/jupyterhub-deploy-docker>`_"
 msgstr ""
+"`эталонное развертывание JupyterHub с помощью Docker <https://github.com/"
+"jupyterhub/jupyterhub-deploy-docker>`_"
 
 # 83e972a4838b45b985c3795f51d91325
 #: ../../source/use-cases/narrative-hub.rst:21 387a73ef84cb4b8693610c4d1758b9ad
@@ -283,22 +333,25 @@ msgid ""
 "on a single server and Ansible scripts <https://github.com/jupyterhub/"
 "jupyterhub-deploy-teaching>`_ to automate set up"
 msgstr ""
+"Преподавание курса с помощью JupyterHub и nbgrader с использованием "
+"`эталонного развертывания на одном сервере и сценариев Ansible <https://github."
+"com/jupyterhub/jupyterhub-deploy-teaching>`_ для автоматизации настройки"
 
 # bc90954a01844a18aabe588e48560982
 #: ../../source/use-cases/narrative-hub.rst:24 275b6edcc9f94571ac4491605a14908c
 msgid "Teaching a Course with JupyterHub, nbgrader, and containers"
-msgstr ""
+msgstr "Преподавание курса с помощью JupyterHub, nbgrader и контейнеров"
 
 # a63a5a9c78b541d39c2ca4a324bfa928
 #: ../../source/use-cases/narrative-hub.rst:25 9e0a3a45e3bf4de2ab07eedabd568ad3
 msgid "JupyterHub deployments using Containers including Docker"
-msgstr ""
+msgstr "Развертывания JupyterHub с использованием контейнеров, включая Docker"
 
 # 1eaed5aeb1c44f48907382a9aa29974f
 #: ../../source/use-cases/narrative-notebook.rst:2
 #: c85e9dc8e7774e60aa08df8f3ce67115
 msgid "Notebook Narratives"
-msgstr ""
+msgstr "Блокнот рассказов"
 
 # 97653c247b5542f3a630af8650f8bc2a
 #: ../../source/use-cases/narrative-notebook.rst:10
@@ -307,41 +360,44 @@ msgid ""
 "The Notebook Narratives explore uses of the Jupyter Notebook in a variety of "
 "applications."
 msgstr ""
+"В блокноте рассказов исследуется использование Jupyter Notebook в различных "
+"приложениях."
 
 # 5f19fbc7dd8449e4aa030e5c901b4333
 #: ../../source/use-cases/narrative-notebook.rst:16
 #: ea577f7520ac4eb8a8cecf30037d7852
 msgid "Using the Notebook for data exploration"
-msgstr ""
+msgstr "Использование блокнота для исследования данных"
 
 # 83ddeff477bb456599fe4d3361ef91f2
 #: ../../source/use-cases/narrative-notebook.rst:17
 #: 642a2950a7fc4df9b3a95b8960eb8b4d
 msgid "Using extensions and widgets"
-msgstr ""
+msgstr "Использование расширений и виджетов"
 
 # aa06224177374fe7ab21442a4e3f0e72
 #: ../../source/use-cases/narrative-notebook.rst:18
 #: ccffb00815d74de09f5df79aec45899a
 msgid "Using nbconvert for code execution and workflow simplification"
 msgstr ""
+"Использование nbconvert для выполнения кода и упрощения рабочего процесса"
 
 # 53697b1c3430469484f08a5b162b5f5e
 #: ../../source/use-cases/narrative-notebook.rst:19
 #: 8729e846f0d74fdf9578629cc2360ebe
 msgid "Using nbconvert for publishing"
-msgstr ""
+msgstr "Использование nbconvert для публикации"
 
 # 9a1429ea23d141af91a1c12036e2d00e
 #: ../../source/use-cases/narrative-notebook.rst:20
 #: 62d1043c7ed143cfbbadf4681cdfdfd6
 msgid "Using multiple language kernels"
-msgstr ""
+msgstr "Использование нескольких языковых ядер"
 
 # 8ccaa5dcc48c4ce1af5b541d84bc5402
 #: ../../source/use-cases/narrative-other.rst:2 994081d41f2341c2a42af99443f33658
 msgid "Narratives - Building blocks"
-msgstr ""
+msgstr "Рассказы - Строительные блоки"
 
 # fd119e2d9ecb43c4814df9aa194455f7
 #: ../../source/use-cases/narrative-other.rst:10 5e783974603840e78a5b4da9370b1125
@@ -350,23 +406,26 @@ msgid ""
 "together. These projects form the foundation of innovative services and "
 "provide building blocks for future applications."
 msgstr ""
+"В этом разделе представлены некоторые примеры интеграции различных проектов "
+"вместе. Эти проекты формируют основу инновационных услуг и обеспечивают "
+"строительные блоки для будущих приложений."
 
 # f9eee5e4fc7445408ff13eaa508df0cf
 #: ../../source/use-cases/narrative-other.rst:17 9f0e4f5a192e43d9a65e84faef38dba7
 msgid "A Narrative about Creating Dashboards"
-msgstr ""
+msgstr "Рассказ о создании панелей мониторинга"
 
 # f4349de4a38643859d8c319858ea9a86
 #: ../../source/use-cases/narrative-other.rst:18 b582545162b941dc813c3ea2c7a06288
 msgid "A Narrative about Thebe"
-msgstr ""
+msgstr "Рассказ о Thebe"
 
 # 7f4210300d32495db6891fdfb61bce00
 #: ../../source/use-cases/narrative-other.rst:19 3a190b4da00242e8af73c8f9aaaf8611
 msgid "A Narrative about Hydrogen"
-msgstr ""
+msgstr "Рассказ о Hydrogen"
 
 # fe891df6078e4c7995cb79e020549cda
 #: ../../source/use-cases/science.rst:2 90226de8494442359b1ecb5223477d36
 msgid "Jupyter and Scientific Computing"
-msgstr ""
+msgstr "Jupyter и научные вычисления"
