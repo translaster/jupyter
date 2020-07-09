@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-04 20:11-0400\n"
-"PO-Revision-Date: 2020-07-07 17:48+0500\n"
+"PO-Revision-Date: 2020-07-09 16:49+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -37,7 +37,7 @@ msgstr "Начните здесь"
 # dd871a3570ef4360993c9f5f9a6e9a6f
 #: ../../source/_templates/index.html:13
 msgid "Jupyter Notebook Quickstart"
-msgstr ""
+msgstr "Быстрый запуск Jupyter Notebook"
 
 # 5b38b22813c440bda17aa0cb1015468a
 #: ../../source/_templates/index.html:14
@@ -57,7 +57,7 @@ msgstr "Что такое Jupyter?"
 # b73a8286763d448c8e471e7c19863f07
 #: ../../source/_templates/index.html:17
 msgid "Narratives and Use Cases"
-msgstr ""
+msgstr "Повествования и варианты использования"
 
 # 27c32a3a5ae34fba8a569bee972dc21a
 #: ../../source/_templates/index.html:18
@@ -80,7 +80,7 @@ msgstr "Интерактивное ядро Python и REPL"
 # d8bfcdc723ba4ff9be620bc7a48c9bbb
 #: ../../source/_templates/index.html:21
 msgid "Installation, Configuration, and Usage"
-msgstr ""
+msgstr "Установка, настройка и использование"
 
 # b85884536fe94bbbb0bc361199515e97
 #: ../../source/_templates/index.html:22
@@ -90,7 +90,7 @@ msgstr "Документация для пользователей"
 # 187c62af4f4946368cc1912dc4ed72bd
 #: ../../source/_templates/index.html:25
 msgid "Community"
-msgstr ""
+msgstr "Сообщество"
 
 # 01be44444a6944f8b66f5d33ecada473
 #: ../../source/_templates/index.html:26
@@ -100,7 +100,7 @@ msgstr "Устойчивость и рост"
 # 1c7430b771f34dea888a279f5159cfd1
 #: ../../source/_templates/index.html:27
 msgid "Contributor Guides"
-msgstr ""
+msgstr "Руководства для участников"
 
 # 060fa8d986484cc5920822becdc72633
 #: ../../source/_templates/index.html:28
@@ -135,12 +135,12 @@ msgstr "Содержание"
 # fe624220d72f4eb68b635b704ce7857d
 #: ../../source/_templates/index.html:34
 msgid "Full table of contents"
-msgstr ""
+msgstr "Полная таблица содержимого"
 
 # fd469284c910443c9a94f1e5c2890809
 #: ../../source/_templates/index.html:40
 msgid "Project Documentation"
-msgstr ""
+msgstr "Документация проекта"
 
 # 82990c9abe5a481b8e029e99d56eda97
 #: ../../source/_templates/index.html:45
@@ -150,12 +150,12 @@ msgstr "Jupyter Notebook"
 # 0fa103f6933a4fae8e861337f0dc4dfe
 #: ../../source/_templates/index.html:46
 msgid "Jupyter console"
-msgstr ""
+msgstr "Консоль Jupyter"
 
 # aeecc22f41504fa78c3e6bc2a5918062
 #: ../../source/_templates/index.html:47
 msgid "Qt console"
-msgstr ""
+msgstr "Qt-консоль"
 
 # e58d1a93d24a4dffb852da36feb32d2d
 #: ../../source/_templates/index.html:49
@@ -165,119 +165,119 @@ msgstr "JupyterHub"
 # b8c2f78b5e064757a6f7fd58b7a47d83
 #: ../../source/_templates/index.html:50
 msgid "configurable HTTP proxy"
-msgstr ""
+msgstr "настраиваемый HTTP-прокси"
 
 # 4b0500d653a140c6ae920817c825165f
 #: ../../source/_templates/index.html:51
 msgid "dockerspawner"
-msgstr ""
+msgstr "dockerspawner"
 
 # d6bed661873740d9b060211a971ab15e
 #: ../../source/_templates/index.html:52
 msgid "ldapauthenticator"
-msgstr ""
+msgstr "ldapauthenticator"
 
 # b00d98858cd348dc9c8aa5777c19b125
 #: ../../source/_templates/index.html:53
 msgid "oauthenticator"
-msgstr ""
+msgstr "oauthenticator"
 
 # a7ee2953ae3149bdbb7c6dedd24d39b4
 #: ../../source/_templates/index.html:54
 msgid "sudospawner"
-msgstr ""
+msgstr "sudospawner"
 
 # 75f1af39b9134416a9c076a314298dbe
 #: ../../source/_templates/index.html:56
 msgid "nbgrader"
-msgstr ""
+msgstr "nbgrader"
 
 # fc5ad0b0e7ed441ca42f9046d3d418bf
 #: ../../source/_templates/index.html:58
 msgid "nbconvert"
-msgstr ""
+msgstr "nbconvert"
 
 # d2e632b13f7a4336814338eed74f44fb
 #: ../../source/_templates/index.html:59
 msgid "nbformat"
-msgstr ""
+msgstr "nbformat"
 
 # 5e25a71dee6f4ba6a9798efa502a8636
 #: ../../source/_templates/index.html:62
 msgid "IRkernel"
-msgstr ""
+msgstr "IRkernel"
 
 # 9cf27e2f496f472d8b31c31a8d50f93f
 #: ../../source/_templates/index.html:63
 msgid "IJulia"
-msgstr ""
+msgstr "IJulia"
 
 # a4408d07c95b4196ad698778f8f67033
 #: ../../source/_templates/index.html:64
 msgid "Community maintained kernels"
-msgstr ""
+msgstr "Поддерживаемые сообществом ядра"
 
 # 2904cce51a98448491bb284edb4307fa
 #: ../../source/_templates/index.html:68
 msgid "ipykernel"
-msgstr ""
+msgstr "ipykernel"
 
 # 6568de0311404a3a8e217053421abd97
 #: ../../source/_templates/index.html:69
 msgid "ipyparallel"
-msgstr ""
+msgstr "ipyparallel"
 
 # 41e36095f7f742798a17eb53fbd9e115
 #: ../../source/_templates/index.html:71
 msgid "jupyter_client"
-msgstr ""
+msgstr "jupyter_client"
 
 # 0829b56cf4c64e43ad26445146b01b00
 #: ../../source/_templates/index.html:72
 msgid "jupyter_core"
-msgstr ""
+msgstr "jupyter_core"
 
 # 443f2d6d97e94855a386370356e7d859
 #: ../../source/_templates/index.html:74
 msgid "docker-stacks"
-msgstr ""
+msgstr "docker-стеки"
 
 # 1ce3fe422ec24231abd162189e6a1b84
 #: ../../source/_templates/index.html:75
 msgid "ipywidgets"
-msgstr ""
+msgstr "ipywidgets"
 
 # 6523ea7d2bfd43b99a6f08b105fb0e50
 #: ../../source/_templates/index.html:76
 msgid "jupyter-drive"
-msgstr ""
+msgstr "jupyter-drive"
 
 # f01bf4a28b1c4ac8bdf4d8a13cfdae5e
 #: ../../source/_templates/index.html:77
 msgid "jupyter-sphinx-theme"
-msgstr ""
+msgstr "тема-jupyter-sphinx"
 
 # 744f8e6f66474cf4bee3f3bed2f28750
 #: ../../source/_templates/index.html:78
 msgid "kernel_gateway"
-msgstr ""
+msgstr "kernel_gateway"
 
 # e74b30a13ebd473c89b8678769cc6e14
 #: ../../source/_templates/index.html:79
 msgid "nbviewer"
-msgstr ""
+msgstr "nbviewer"
 
 # 3465cff3b57a4f3d87d71548f0b523b8
 #: ../../source/_templates/index.html:80
 msgid "tmpnb"
-msgstr ""
+msgstr "tmpnb"
 
 # a89a262455e04f8881482759567c34f5
 #: ../../source/_templates/index.html:81
 msgid "traitlets"
-msgstr ""
+msgstr "traitlets"
 
 # c319a5d418a24253ba83ff826d666716
 #: ../../source/_templates/index.html:83
 msgid "jupyter-js-services"
-msgstr ""
+msgstr "служба-jupyter-js"
