@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-04 19:51-0400\n"
-"PO-Revision-Date: 2020-07-07 17:45+0500\n"
+"PO-Revision-Date: 2020-07-09 16:43+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,7 +22,7 @@ msgstr ""
 # 034fbf47daca43d69d2f69db956f0925
 #: ../../source/running.rst:5
 msgid "Running the Notebook"
-msgstr ""
+msgstr "Запуск Notebook"
 
 # 0f84d33b57f44a6c866def4270ab75d4
 #: ../../source/running.rst:9
@@ -37,17 +37,17 @@ msgstr "Основные этапы"
 # 772caec806c34073bc157412767069c3
 #: ../../source/running.rst:14
 msgid "Start the notebook server from the :term:`command line`::"
-msgstr ""
+msgstr "Запустите сервер блокнота из :term:`command line`::"
 
 # 381fc8c07c8d4b12907dece1a9391603
 #: ../../source/running.rst:18
 msgid "You should see the notebook open in your browser."
-msgstr ""
+msgstr "Вы должны увидеть открытый блокнот в вашем браузере."
 
 # 5b2da16c94e74d859ce8055fdce8aeb6
 #: ../../source/running.rst:21
 msgid "Starting the Notebook Server"
-msgstr ""
+msgstr "Запуск сервера Notebook"
 
 # 81d1855aa3064e38a5145051195be5ce
 #: ../../source/running.rst:23
@@ -57,6 +57,10 @@ msgid ""
 "`command line` (using :term:`Terminal` on Mac/Linux, :term:`Command Prompt` "
 "on Windows) by running::"
 msgstr ""
+"После того, как вы установили Jupyter Notebook на свой компьютер, вы можете "
+"запустить сервер блокнотов. Вы можете запустить сервер блокнотов из :term:"
+"`command line` (используя :term:`Terminal` в Mac/Linux, :term:`Command "
+"Prompt` в Windows), запустив::"
 
 # 178e1601d2154fc198cd68d6167cb4ee
 #: ../../source/running.rst:30
@@ -65,11 +69,14 @@ msgid ""
 "including the URL of the web application (by default, ``http://"
 "localhost:8888``):"
 msgstr ""
+"Это приведет к печати некоторой информации о сервере блокнотов в вашем "
+"терминале, включая URL-адрес веб-приложения (по умолчанию ``http://"
+"localhost:8888``):"
 
 # 2499df7720c9421eaf3671e9c9a7e4b7
 #: ../../source/running.rst:42
 msgid "It will then open your default web browser to this URL."
-msgstr ""
+msgstr "Он откроется в браузере по умолчанию для данного URL-адреса."
 
 # f9ca618037bf469490a7fc5a2e793ebf
 #: ../../source/running.rst:44
@@ -80,6 +87,11 @@ msgid ""
 "of the time, you will wish to start a notebook server in the highest level "
 "directory containing notebooks. Often this will be your home directory."
 msgstr ""
+"Когда блокнот в вашем браузере - вы увидите :term:`Notebook Dashboard`, "
+"который покажет список блокнотов, файлов и подкаталогов в каталоге, где был "
+"запущен сервер блокнотов. В большинстве случаев вам необходимо запустить "
+"сервер блокнотов в каталоге самого высокого уровня, содержащем блокноты. "
+"Часто это будет ваш домашний каталог."
 
 # dc50f37acb364b30924ee135608f01e4
 #: ../../source/running.rst:50
@@ -89,12 +101,12 @@ msgstr "**Панель мониторинга Notebook**"
 # 1cd18ab0da2945bbaefbe684313b04a0
 #: ../../source/running.rst:55
 msgid "Introducing the Notebook Server's Command Line Options"
-msgstr ""
+msgstr "Знакомство с параметрами командной строки сервера Notebook"
 
 # 6e674cad5104461aa03097ede9bb7b7f
 #: ../../source/running.rst:58
 msgid "How do I open a specific Notebook?"
-msgstr ""
+msgstr "Как открыть конкретный блокнот?"
 
 # dfbad8a998c7422ca95f3c2a41fb3964
 #: ../../source/running.rst:60
@@ -102,11 +114,13 @@ msgid ""
 "The following code should open the given notebook in the currently running "
 "notebook server, starting one if necessary."
 msgstr ""
+"Следующий код должен открыть данный блокнот на текущем сервере блокнотов, "
+"запустив его при необходимости."
 
 # 57ba78a74c634ad5a2709e1cc3bbe370
 #: ../../source/running.rst:67
 msgid "How do I start the Notebook using a custom IP or port?"
-msgstr ""
+msgstr "Как запустить блокнот с помощью собственного IP-адреса или порта?"
 
 # 425d27eeb2084312960454783a563cdd
 #: ../../source/running.rst:69
@@ -116,21 +130,25 @@ msgid ""
 "You may also specify a port manually. In this example, we set the server's "
 "port to 9999:"
 msgstr ""
+"По умолчанию сервер блокнотов запускается через порт 8888. Если порт 8888 "
+"недоступен или используется - сервер блокнотов ищет следующий доступный порт. "
+"Вы также можете указать порт вручную. В этом примере мы устанавливаем порт "
+"сервера на 9999:"
 
 # e4bf6e61b19a4c33b6aff46cf9e29eaf
 #: ../../source/running.rst:79
 msgid "How do I start the Notebook server without opening a browser?"
-msgstr ""
+msgstr "Как запустить сервер блокнота без открытия браузера?"
 
 # 56643f36db0446c38012f871fbabf0d7
 #: ../../source/running.rst:81
 msgid "Start notebook server without opening a web browser:"
-msgstr ""
+msgstr "Запустить сервер блокнотов не открывая веб-браузер:"
 
 # 265b6dcd97d4439eaa5fb4436fcf1189
 #: ../../source/running.rst:88
 msgid "How do I get help about Notebook server options?"
-msgstr ""
+msgstr "Как получить справку о параметрах сервера Notebook?"
 
 # ec00daf0abd7419d8fae626b3ea49805
 #: ../../source/running.rst:90
@@ -138,14 +156,18 @@ msgid ""
 "The notebook server provides help messages for other command line arguments "
 "using the ``--help`` flag:"
 msgstr ""
+"Сервер блокнотов предоставляет справочные сообщения для других аргументов "
+"командной строки, используя флаг ``--help``:"
 
 # b21136ba910742b9b9ecaccaa257051b
 #: ../../source/running.rst:99
 msgid ":ref:`Jupyter Installation, Configuration, and Usage <content-projects>`"
-msgstr ""
+msgstr ":ref:`Установка, настройка и использование Jupiter <content-projects>`"
 
 # aece793a237545f9817252206a46e633
 #: ../../source/running.rst:100
 msgid ""
 "Detailed information about command line arguments, configuration, and usage."
 msgstr ""
+"Подробная информация об аргументах командной строки, конфигурации и "
+"использовании."
