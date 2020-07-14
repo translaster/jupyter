@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-07-04 19:51-0400\n"
-"PO-Revision-Date: 2020-07-07 17:30+0500\n"
+"PO-Revision-Date: 2020-07-14 12:21+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -119,7 +119,7 @@ msgstr ""
 # b3066e3c9a824483918e9feabfddd439
 #: ../../source/migrating.rst:62
 msgid "Configuration files"
-msgstr ""
+msgstr "Файлы конфигурации"
 
 # d1be8dd7d028443bab89581071668b40
 #: ../../source/migrating.rst:64
@@ -142,7 +142,7 @@ msgstr ""
 # 9678737a7e6342c7bb833a2c8242b625
 #: ../../source/migrating.rst:71
 msgid ":file:`~/.ipython/profile_default/static/custom`"
-msgstr ""
+msgstr ":file:`~/.ipython/profile_default/static/custom`"
 
 # 1008e78186164ff2adcc4c0a92dae223
 # 72fe30c2d0404ee59bde125a2de1e38f
@@ -163,52 +163,52 @@ msgstr ""
 #: ../../source/migrating.rst:244 ../../source/migrating.rst:245
 #: ../../source/migrating.rst:246 ../../source/migrating.rst:247
 msgid "→"
-msgstr ""
+msgstr "→"
 
 # 3305847c2b3c4dd597ec3b649ca0feb4
 #: ../../source/migrating.rst:71
 msgid ":file:`~/.jupyter/custom`"
-msgstr ""
+msgstr ":file:`~/.jupyter/custom`"
 
 # 8a5dbaf9bbb24302b7f8c44d5c70d748
 #: ../../source/migrating.rst:72
 msgid ":file:`~/.ipython/profile_default/ipython_notebook_config.py`"
-msgstr ""
+msgstr ":file:`~/.ipython/profile_default/ipython_notebook_config.py`"
 
 # 44d5bf8302184c91ab5ea2642ff4b0af
 #: ../../source/migrating.rst:72
 msgid ":file:`~/.jupyter/jupyter_notebook_config.py`"
-msgstr ""
+msgstr ":file:`~/.jupyter/jupyter_notebook_config.py`"
 
 # f17f8f9f52884c2bbc2fce452120161a
 #: ../../source/migrating.rst:73
 msgid ":file:`~/.ipython/profile_default/ipython_nbconvert_config.py`"
-msgstr ""
+msgstr ":file:`~/.ipython/profile_default/ipython_nbconvert_config.py`"
 
 # 6e8948fba80a4d329cf88b88e14f34a3
 #: ../../source/migrating.rst:73
 msgid ":file:`~/.jupyter/jupyter_nbconvert_config.py`"
-msgstr ""
+msgstr ":file:`~/.jupyter/jupyter_nbconvert_config.py`"
 
 # 3e89a17fc5b24bdb8db5e054e654b496
 #: ../../source/migrating.rst:74
 msgid ":file:`~/.ipython/profile_default/ipython_qtconsole_config.py`"
-msgstr ""
+msgstr ":file:`~/.ipython/profile_default/ipython_qtconsole_config.py`"
 
 # 272ac1f228084a03ac2d2114a6412072
 #: ../../source/migrating.rst:74
 msgid ":file:`~/.jupyter/jupyter_qtconsole_config.py`"
-msgstr ""
+msgstr ":file:`~/.jupyter/jupyter_qtconsole_config.py`"
 
 # 2e3a6302c7924ba29ba73e7c4a68be2f
 #: ../../source/migrating.rst:75
 msgid ":file:`~/.ipython/profile_default/ipython_console_config.py`"
-msgstr ""
+msgstr ":file:`~/.ipython/profile_default/ipython_console_config.py`"
 
 # 2ecee964e7b24a10bef99b7524da7344
 #: ../../source/migrating.rst:75
 msgid ":file:`~/.jupyter/jupyter_console_config.py`"
-msgstr ""
+msgstr ":file:`~/.jupyter/jupyter_console_config.py`"
 
 # 4d628b8f2fd64ed883e979d8ba54112c
 #: ../../source/migrating.rst:78
@@ -472,72 +472,72 @@ msgstr ""
 # 4243295b32bd48229e2f24ac3feb22c2
 #: ../../source/migrating.rst:241
 msgid "``IPython.html``"
-msgstr ""
+msgstr "``IPython.html``"
 
 # 07dcd5f404274ab0b1593a89a10eda12
 #: ../../source/migrating.rst:241
 msgid "``notebook``"
-msgstr ""
+msgstr "``notebook``"
 
 # eb1f964c367445f19d1aebc8b52fa46a
 #: ../../source/migrating.rst:242
 msgid "``IPython.html.widgets``"
-msgstr ""
+msgstr "``IPython.html.widgets``"
 
 # 75653597f60c4e2facecc6342d4ee141
 #: ../../source/migrating.rst:242
 msgid "``ipywidgets``"
-msgstr ""
+msgstr "``ipywidgets``"
 
 # 2e80aada7b9b4fbfbd8bc21f683b5a33
 #: ../../source/migrating.rst:243
 msgid "``IPython.kernel``"
-msgstr ""
+msgstr "``IPython.kernel``"
 
 # ee6c0d3100a0430887bc2ec59c836066
 #: ../../source/migrating.rst:243
 msgid "``jupyter_client``, ``ipykernel``"
-msgstr ""
+msgstr "``jupyter_client``, ``ipykernel``"
 
 # 6ef0dd165dd9439b869e08965c69222a
 #: ../../source/migrating.rst:244
 msgid "``IPython.parallel``"
-msgstr ""
+msgstr "``IPython.parallel``"
 
 # 282f79d57dc84378a575ad9037ceda9f
 #: ../../source/migrating.rst:244
 msgid "``ipyparallel``"
-msgstr ""
+msgstr "``ipyparallel``"
 
 # 0d2d805e0ebc4d1ca6e714416e5ba544
 #: ../../source/migrating.rst:245
 msgid "``IPython.qt.console``"
-msgstr ""
+msgstr "``IPython.qt.console``"
 
 # 3d9ae3c27ca949228f137c7099ff4dac
 #: ../../source/migrating.rst:245
 msgid "``qtconsole``"
-msgstr ""
+msgstr "``qtconsole``"
 
 # d7fbddb811bc4e4ba54deb111b3f0a87
 #: ../../source/migrating.rst:246
 msgid "``IPython.utils.traitlets``"
-msgstr ""
+msgstr "``IPython.utils.traitlets``"
 
 # e051da2ba487485eb14be36b1cbc0c02
 #: ../../source/migrating.rst:246
 msgid "``traitlets``"
-msgstr ""
+msgstr "``traitlets``"
 
 # 417499484a6241a5ba01fa609cf782f2
 #: ../../source/migrating.rst:247
 msgid "``IPython.config``"
-msgstr ""
+msgstr "``IPython.config``"
 
 # 5686f8ec952f403bb20dad55c84bd2e7
 #: ../../source/migrating.rst:247
 msgid "``traitlets.config``"
-msgstr ""
+msgstr "``traitlets.config``"
 
 # 1069489e11e54f5683906ef69dd939f4
 #: ../../source/migrating.rst:252
@@ -547,14 +547,14 @@ msgstr ""
 # b3e32d27b5ec43d8b46b37ab774c3713
 #: ../../source/migrating.rst:254
 msgid "``IPython.kernel`` became two packages:"
-msgstr ""
+msgstr "``IPython.kernel`` стало двумя пакетами:"
 
 # 37e65f7a48a049849c032d103355c88c
 #: ../../source/migrating.rst:256
 msgid "``jupyter_client`` for the Jupyter client-side APIs."
-msgstr ""
+msgstr "``jupyter_client`` для клиентских API-интерфейсов Jupyter."
 
 # daef865437274272bfbf0f835bab4a68
 #: ../../source/migrating.rst:257
 msgid "``ipykernel`` for Jupyter's IPython kernel"
-msgstr ""
+msgstr "``ipykernel`` для ядра IPython Jupyter"
