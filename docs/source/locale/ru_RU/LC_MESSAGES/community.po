@@ -9,13 +9,13 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 20:21+0000\n"
-"PO-Revision-Date: 2020-07-07 17:02+0500\n"
+"PO-Revision-Date: 2020-07-14 12:54+0500\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.8.0\n"
 "Last-Translator: Dmitriy Q <dmitry@atsip.ru>\n"
-"Language-Team: \n"
+"Language-Team: TranslAster <https://github.com/translaster>\n"
 "Language: ru_RU\n"
 "X-Generator: Poedit 2.3.1\n"
 
@@ -48,7 +48,7 @@ msgstr ""
 #: ../../source/community/community-call-notes/2019-march.md:11 6b029194e22b4cdf81bacb69b13935ee
 #: 745bcd627e8c4730a4f844f5fc30cdb7
 msgid "Hello!"
-msgstr ""
+msgstr "Привет!"
 
 #: ../../source/community/community-call-notes/2019-april.md:12
 #: ../../source/community/community-call-notes/2019-march.md:13
@@ -223,7 +223,7 @@ msgstr ""
 # 0c8d73e860a3443b9486206bb2c56814
 #: ../../source/community/community-call-notes/2019-april.md:41 e9b9075c54d14061abebb96056f91c8f
 msgid "Large support teams."
-msgstr ""
+msgstr "Большие команды поддержки."
 
 # a314be8356e2421a979988b289a33f6c
 #: ../../source/community/community-call-notes/2019-april.md:42 40f0df3110fe45189bc5375b04638b92
@@ -370,7 +370,7 @@ msgstr ""
 # c1d969e8856e4171af4793fb45ca342a
 #: ../../source/community/community-call-notes/2019-april.md:71 8c73aa888dc041c9b5fa1944c39fa0b9
 msgid "Github org: https://github.com/MolSSI"
-msgstr ""
+msgstr "Github организ-я: https://github.com/MolSSI"
 
 # 2b1e1636b7af499ab63139437e2fe6c0
 #: ../../source/community/community-call-notes/2019-april.md:72 b46261f9984d4a6bbe6d6845af7c122a
@@ -1156,7 +1156,7 @@ msgstr "Пишите вопросы, которые у вас есть, здес
 # 8f6656c371754cf890fbf0ec645c129f
 #: ../../source/community/community-call-notes/2019-march.md:43 c25c22cdc9184dd6ab05b0c3a818525c
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # 1809dc99df1840eea5a3ba67e4a8293b
 #: ../../source/community/community-call-notes/2019-march.md:44 d82f5d927bed4ed9bd70db553ca37aee
@@ -1571,7 +1571,7 @@ msgstr ""
 # c67c120c090f4978a8fe171269f0c269
 #: ../../source/community/community-call-notes/2019-may.md:45 cc44bbbcc90e490e9d03c682a4944907
 msgid "handlers"
-msgstr ""
+msgstr "обработчики"
 
 # cf7a63882a10418fa6eda0ed55f9a59c
 #: ../../source/community/community-call-notes/2019-may.md:55 5bae4e1393c240718447ce3379ca804c
@@ -1596,7 +1596,7 @@ msgstr ""
 # 37fa4b509f17412cb5196f304f3fd903
 #: ../../source/community/community-call-notes/2019-may.md:52 fd054112f19d495da21d6d09aed3e542
 msgid "next steps:"
-msgstr ""
+msgstr "дальнейшие действия:"
 
 # 0a7f05066f404c538534e1f60d6355fa
 #: ../../source/community/community-call-notes/2019-may.md:51 bd757ca2a27a4bd2a17e7c795a9df6bf
@@ -1803,7 +1803,7 @@ msgstr ""
 
 #: ../../source/community/community-call-notes/index.rst:11
 msgid "September 2019"
-msgstr ""
+msgstr "Сентябрь 2019"
 
 #: ../../source/community/community-call-notes/index.rst:11
 msgid "August 2019"
@@ -1847,7 +1847,7 @@ msgstr ""
 
 #: ../../source/community/content-community.rst:5 15915a35275049b2a493ff4ed7255f7a
 msgid "Community"
-msgstr ""
+msgstr "Сообщество"
 
 # d54af2f83db8471499576db794d43eb0
 #: ../../source/community/content-community.rst:8 850c63cc35d04deab33ef3da2edf17e7
@@ -1972,7 +1972,7 @@ msgstr ""
 # 80103b709d94489da4c958855044ce23
 #: ../../source/community/content-community.rst:67 6a5d739e1f104e10930dd7b5b00797ab
 msgid "Gitter `<https://gitter.im/jupyter/jupyter>`_"
-msgstr ""
+msgstr "Gitter `<https://gitter.im/jupyter/jupyter>`_"
 
 # dd12e64a1c6242688e11b1e72d4b7d17
 #: ../../source/community/content-community.rst:68 122391b5df3d43989db52b54765fd4c0
@@ -1982,7 +1982,7 @@ msgstr ""
 # d8926bc097014aa68efb0246f0e69e7e
 #: ../../source/community/content-community.rst:72 7e5c4f23548e4b8a8f947d237bc2371c
 msgid "Governance"
-msgstr ""
+msgstr "Управление"
 
 # 415a23b6140845c1b39b127b61a35e6e
 #: ../../source/community/content-community.rst:74 875048059c714f239fcbf2610f62b862
