@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-11 23:18+0000\n"
-"PO-Revision-Date: 2020-07-07 17:32+0500\n"
+"PO-Revision-Date: 2020-07-14 12:17+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -59,6 +59,9 @@ msgid ""
 "config system, and a common :ref:`config directory <config_dir>`. By default, "
 "this directory is :file:`~/.jupyter`."
 msgstr ""
+"**Общая система конфигурации Jupyter** приложения Jupyter имеют общую систему "
+"конфигурации и общий :ref:`config directory <config_dir>`. По умолчанию этот "
+"каталог имеет вид :file:`~/.jupyter`."
 
 # 631c35d8d9ea49129b1a252a853e4683
 #: ../../source/projects/config.rst:17 172743fb634c4a8fb28009503472d21b
@@ -68,6 +71,10 @@ msgid ""
 "the IPython kernel looks for files in the :ref:`IPython directory "
 "<ipythondir>` instead of the default Jupyter directory :file:`~/.jupyter`."
 msgstr ""
+"**Каталоги конфигурации ядра** если ядра используют конфигурационные файлы, то "
+"они обычно организуются в отдельные каталоги для каждого ядра. Например, ядро "
+"IPython ищет файлы в каталоге :ref:`IPython directory <ipythondir>` вместо "
+"каталога Jupyter по-умолчанию :file:`~/.jupyter`."
 
 # c275e83d19c14b30a5fed2db4d317a77
 #: ../../source/projects/config.rst:24 959640433c9b4931a513f362c78a5628
@@ -142,7 +149,7 @@ msgstr ""
 # 36415b5e588946969565a4a22179fb99
 #: ../../source/projects/config.rst:77 ae891dc7c0844df682fc7687b20e0f77
 msgid ":mod:`traitlets:traitlets.config`"
-msgstr ""
+msgstr ":mod:`traitlets:traitlets.config`"
 
 # ae0cd4a04e9e4835a145e80ea304ec17
 #: ../../source/projects/config.rst:78 f324194eccb645d79a8fecffad768590
@@ -757,7 +764,7 @@ msgstr ""
 #: ../../source/projects/jupyter-directories.rst:20
 #: 9ea3f1601be04631981e56b328c02a07
 msgid "Configuration files"
-msgstr ""
+msgstr "Файлы конфигурации"
 
 # a2bb292bb5b44bc6ac0a00926eb1a21c
 #: ../../source/projects/jupyter-directories.rst:22
@@ -786,7 +793,7 @@ msgstr ""
 #: ../../source/projects/jupyter-directories.rst:34
 #: fc2fa25bd6f041baba5364d9980bfdc3
 msgid "Unix"
-msgstr ""
+msgstr "Unix"
 
 # 6fd5c493414044c59661c483a397b901
 # 7ac748a5da594a0e8795dc4d126d5ff6
@@ -794,31 +801,31 @@ msgstr ""
 #: ../../source/projects/jupyter-directories.rst:75
 #: 81a46442328b448c83f2d651e2cffb7f b65ed301a99d48f1ada5b932f11f852e
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 # 7d93e5f1b6964a0a8749d3f4589b2c66
 #: ../../source/projects/jupyter-directories.rst:36
 #: d49afdf387934e15970312d52300ff53
 msgid ":envvar:`JUPYTER_CONFIG_DIR`"
-msgstr ""
+msgstr ":envvar:`JUPYTER_CONFIG_DIR`"
 
 # 76ba7f9b667d4164a38b80798883a1b7
 #: ../../source/projects/jupyter-directories.rst:38
 #: 3e35abba1df741fc9a216dff7033c205
 msgid "``{sys.prefix}/etc/jupyter/``"
-msgstr ""
+msgstr "``{sys.prefix}/etc/jupyter/``"
 
 # 91813f6c49834cf3af9f4a75bdd82a3f
 #: ../../source/projects/jupyter-directories.rst:40
 #: ceeea080a6444f8f8942c934d733d435
 msgid "``/usr/local/etc/jupyter/`` ``/etc/jupyter/``"
-msgstr ""
+msgstr "``/usr/local/etc/jupyter/`` ``/etc/jupyter/``"
 
 # e74637fd387f47ccb068dbc01bded802
 #: ../../source/projects/jupyter-directories.rst:40
 #: 55db637eb08c4b39a00da053e40d3481
 msgid "``%PROGRAMDATA%\\jupyter\\``"
-msgstr ""
+msgstr "``%PROGRAMDATA%\\jupyter\\``"
 
 # 712a90ba320f4bda9acb4e6df9b85bc2
 #: ../../source/projects/jupyter-directories.rst:44
@@ -838,7 +845,7 @@ msgstr ""
 #: ../../source/projects/jupyter-directories.rst:53
 #: a36e9fc667324f81b38f594dc1f48c5f
 msgid "Data files"
-msgstr ""
+msgstr "Файлы данных"
 
 # 11ceec0e782b4fc29d0268325a9e2a2c
 #: ../../source/projects/jupyter-directories.rst:58
@@ -873,55 +880,55 @@ msgstr ""
 #: ../../source/projects/jupyter-directories.rst:75
 #: 69fcf24d18a24fa784b7ff3cdffac2b5
 msgid "Linux (& other free desktops)"
-msgstr ""
+msgstr "Linux (и другие свободные настольные компьютеры)"
 
 # b050321d85634c2b8e2b2a6dcd904919
 #: ../../source/projects/jupyter-directories.rst:75
 #: 1899711971f548ceb4f51bbb35f73c02
 msgid "Mac"
-msgstr ""
+msgstr "Mac"
 
 # cd9e53136025484cacee2884c4b0d516
 #: ../../source/projects/jupyter-directories.rst:77
 #: f2c0f1ba387a492188fb6fd32d3937ba
 msgid ":envvar:`JUPYTER_PATH`"
-msgstr ""
+msgstr ":envvar:`JUPYTER_PATH`"
 
 # 391fe50861314e57a7daa84d3e5e2bab
 #: ../../source/projects/jupyter-directories.rst:79
 #: 5d767a05dd1647f1aa75a5a806ea4269
 msgid "``~/.local/share/jupyter/`` (respects ``$XDG_DATA_HOME``)"
-msgstr ""
+msgstr "``~/.local/share/jupyter/`` (относится к ``$XDG_DATA_HOME``)"
 
 # 06e83363053c4fbba0effd942e901744
 #: ../../source/projects/jupyter-directories.rst:79
 #: 8479897abefc4c3e8d6ea66e5e84623c
 msgid "``~/Library/Jupyter``"
-msgstr ""
+msgstr "``~/Library/Jupyter``"
 
 # 6d67a10caff64039a15564a99c3006f9
 #: ../../source/projects/jupyter-directories.rst:79
 #: b9eeba57a88b42b49ef778b48f654312
 msgid "``%APPDATA%\\jupyter``"
-msgstr ""
+msgstr "``%APPDATA%\\jupyter``"
 
 # deb75cfd63164420803927a5649e969a
 #: ../../source/projects/jupyter-directories.rst:82
 #: 6c162a1abcac4d938eb53ea77cfe227f
 msgid "``{sys.prefix}/share/jupyter/``"
-msgstr ""
+msgstr "``{sys.prefix}/share/jupyter/``"
 
 # f0d3dcdaccca4791b9a44deae35c97e4
 #: ../../source/projects/jupyter-directories.rst:84
 #: 139728f5278a4187a030d335dbcb1990
 msgid "``/usr/local/share/jupyter`` ``/usr/share/jupyter``"
-msgstr ""
+msgstr "``/usr/local/share/jupyter`` ``/usr/share/jupyter``"
 
 # b7b523630e9242a4a12dbf7542ad65dc
 #: ../../source/projects/jupyter-directories.rst:84
 #: d99d23ad634148e298d6b703ae4125f4
 msgid "``%PROGRAMDATA\\jupyter``"
-msgstr ""
+msgstr "``%PROGRAMDATA\\jupyter``"
 
 # c016305bf516483f8048f46243bedb89
 #: ../../source/projects/jupyter-directories.rst:90
@@ -1001,31 +1008,31 @@ msgstr ""
 #: ../../source/projects/jupyter-directories.rst:135
 #: ad1eb7bfb50148179d233b92850fd4f8
 msgid ":envvar:`JUPYTER_CONFIG_DIR` for config file location"
-msgstr ""
+msgstr ":envvar:`JUPYTER_CONFIG_DIR` для расположения файла конфигурации"
 
 # 337b31b2027e41ee99263264a0e43464
 #: ../../source/projects/jupyter-directories.rst:137
 #: c5f3728b5b32481cb7dfafa7bfff4d45
 msgid ":envvar:`JUPYTER_PATH` for datafile directory locations"
-msgstr ""
+msgstr ":envvar:`JUPYTER_PATH` для расположения каталогов файлов данных"
 
 # 68aa88fd12b5481391003547261aa646
 #: ../../source/projects/jupyter-directories.rst:139
 #: fba1bbe4c6594072871308200d9a660c
 msgid ":envvar:`JUPYTER_DATA_DIR` for data file location"
-msgstr ""
+msgstr ":envvar:`JUPYTER_DATA_DIR` для расположения файла данных"
 
 # 5d107ae276ea4dc8bf1d85dbb80bc83d
 #: ../../source/projects/jupyter-directories.rst:141
 #: 5edf5e73fe174a25b12229a4e11820b3
 msgid ":envvar:`JUPYTER_RUNTIME_DIR` for runtime file location"
-msgstr ""
+msgstr ":envvar:`JUPYTER_RUNTIME_DIR` для расположения запущенного файла"
 
 # e23bc6d9b72d47548301020f53a1ed24
 #: ../../source/projects/jupyter-directories.rst:147
 #: 7d2ef58d836c486c98ec07d9d3049a21
 msgid ":mod:`jupyter_core.paths`"
-msgstr ""
+msgstr ":mod:`jupyter_core.paths`"
 
 # ca3b8f756259407baf25bf422b315237
 #: ../../source/projects/jupyter-directories.rst:147
@@ -1037,7 +1044,7 @@ msgstr ""
 #: ../../source/projects/jupyter-directories.rst:149
 #: e0ade5c1d4464958a2915f13a14afcec
 msgid ":ref:`jupyter_command`"
-msgstr ""
+msgstr ":ref:`jupyter_command`"
 
 # 77254e7e6f644d49a9475e8bd2e47d8a
 #: ../../source/projects/jupyter-directories.rst:150
@@ -1420,7 +1427,7 @@ msgstr ""
 # d88146b35caa48739050570489690ea2
 #: ../../source/projects/upgrade-notebook.rst:34 575b416fdc0f4a02ae462b365a667496
 msgid "*or*"
-msgstr ""
+msgstr "*или*"
 
 # e5a0f0b2480d4d288496520262d1b1f5
 #: ../../source/projects/upgrade-notebook.rst:36 015f1c19b5614cc6a1a282d8902ed2fd
