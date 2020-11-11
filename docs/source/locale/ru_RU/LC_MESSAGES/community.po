@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-15 20:21+0000\n"
-"PO-Revision-Date: 2020-07-14 12:54+0500\n"
+"PO-Revision-Date: 2020-11-11 15:12+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Last-Translator: Dmitriy Q <dmitry@atsip.ru>\n"
 "Language-Team: TranslAster <https://github.com/translaster>\n"
 "Language: ru_RU\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../source/community/community-call-notes/2019-april.md:1 77533b13e5ab479bbd22670b494c5591
 msgid "# All-Jupyter Community Video Call - April 2019"
@@ -174,7 +174,7 @@ msgstr ""
 # 27ac1fb35460431682dceb89c631762b
 #: ../../source/community/community-call-notes/2019-april.md:30 dcf42617065a4efd99d12a24fef3525e
 msgid "[ ] add item here [name=add your name]"
-msgstr ""
+msgstr "[] Добавьте элемент здесь [name=add your name]"
 
 #: ../../source/community/community-call-notes/2019-april.md:32
 #: ../../source/community/community-call-notes/2019-august.md:27
@@ -412,7 +412,7 @@ msgstr ""
 # 2f177e7a343c43f5bcb6dcc312ec9f8f
 #: ../../source/community/community-call-notes/2019-april.md:80 7b083ff549af40b1a73225aa2b7a53dc
 msgid "[ ] Add your item here [name=and your name]"
-msgstr ""
+msgstr "[] Добавьте элемент здесь [name=add your name]"
 
 #: ../../source/community/community-call-notes/2019-april.md:82 46ff0abc57c047fbb32d84fe68eb182f
 msgid "## University of Edinburgh materials and contact:"
@@ -644,7 +644,7 @@ msgstr ""
 #: ../../source/community/community-call-notes/2019-june.md:34 00481dcc00c24566be0338c16e4f8bbb
 #: 18323cb1dd5949af8ecd188c247e7f86
 msgid "[ ] [name=yournamehere]"
-msgstr ""
+msgstr "[ ] [name=yournamehere]"
 
 #: ../../source/community/community-call-notes/2019-august.md:29
 #: ../../source/community/community-call-notes/2019-june.md:38
@@ -714,7 +714,7 @@ msgstr ""
 
 #: ../../source/community/community-call-notes/2019-august.md:42 abffad4cc67542c492fb20965cdc8289
 msgid "[ ] [Metadata/linked data service](https://github.com/jupyterlab/jupyterlab-data-explorer)"
-msgstr ""
+msgstr "[] [Метаданные/связанные службы данных](https://github.com/jupyterlab/jupyterlab-data-explorer)"
 
 #: ../../source/community/community-call-notes/2019-august.md:44
 #: ../../source/community/community-call-notes/2019-june.md:57
@@ -836,7 +836,7 @@ msgstr ""
 # fb23b23b3e684ca28874402cb265a324
 #: ../../source/community/community-call-notes/2019-june.md:24 3b1e1784864744e6b731898a0847fc82
 msgid "[ ] [name=Zsailer] Welcome the new Jupyter Cal Poly Intern team."
-msgstr ""
+msgstr "[] [name=Zsailer] Добро пожаловать в новую команду Jupyter Cal Poly Intern."
 
 # 7072df0cf9f648f387a4d7ca6fda3f51
 #: ../../source/community/community-call-notes/2019-june.md:28 661c4784ba054ad4aba9ccf705f827f6
@@ -863,7 +863,7 @@ msgstr ""
 
 #: ../../source/community/community-call-notes/2019-june.md:32 7c75686a21d647ddb9afee6feefd9332
 msgid "[ ] [name=Erik Sundell]"
-msgstr ""
+msgstr "[ ] [name=Erik Sundell]"
 
 #: ../../source/community/community-call-notes/2019-june.md:31 d2c180e0c7a14b738f3f42df9e32f2a6
 msgid ""
@@ -875,7 +875,7 @@ msgstr ""
 # 545fa94a22bb4e17bed6be059eb02fcc
 #: ../../source/community/community-call-notes/2019-june.md:46 f939d62e46c1438ea1030b9c8347ca02
 msgid "[ ] [name=kbates] Brief overview of Jupyter Enterprise Gateway"
-msgstr ""
+msgstr "[] [name=kbates] Краткий обзор Jupyter Enterprise Gateway"
 
 # 575e8f96475e44279b48500c3d7a6036
 # 95b92a12b5fc4eae9bd0b5b6c98ee364
@@ -884,7 +884,7 @@ msgstr ""
 #: ../../source/community/community-call-notes/2019-march.md:72 69f5a3f85b8f4f6e9d9e58f5f8416198
 #: 93cd0da999f340d89c03a5d152488bf2 da190c70da33447eae1104ea1214672c
 msgid "Questions:"
-msgstr ""
+msgstr "Вопросы:"
 
 # 5cef67cb787b469bac11ff11bd25ee48
 #: ../../source/community/community-call-notes/2019-june.md:42 ad5527ce753342ca977c04d35d871249
@@ -954,7 +954,7 @@ msgstr ""
 #: ../../source/community/community-call-notes/2019-june.md:55 125eb506fd6d46279a7835b9a7b93fc7
 #: 8ceed15e7ac948869d3f149808a77243
 msgid "[ ] [name=YourNameHere]"
-msgstr ""
+msgstr "[ ] [name=YourNameHere]"
 
 # a5f40f6e13b84808b0e6bd80ca4faf86
 #: ../../source/community/community-call-notes/2019-june.md:61

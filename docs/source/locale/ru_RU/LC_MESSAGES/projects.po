@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jupyter Documentation 4.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-11 23:18+0000\n"
-"PO-Revision-Date: 2020-07-14 12:17+0500\n"
+"PO-Revision-Date: 2020-11-11 15:12+0500\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Last-Translator: Dmitriy Q <dmitry@atsip.ru>\n"
 "Language-Team: TranslAster <https://github.com/translaster>\n"
 "Language: ru_RU\n"
-"X-Generator: Poedit 2.3.1\n"
+"X-Generator: Poedit 2.4.2\n"
 
 # 92339a9a41b542e298b60cdb6f6cbf61
 #: ../../source/projects/config.rst:4 889c6befa4a342b8b39c2994e9ba0e23
 msgid "Jupyter's Common Configuration Approach"
-msgstr ""
+msgstr "Общий подход Jupyter к конфигурации"
 
 # 90da53f4dfa74557a08b864016016453
 # e79e0aed79164105ba0c59db1e7cc25f
@@ -97,6 +97,8 @@ msgid ""
 "By editing the :file:`jupyter_{application}_config.py` file, you can configure "
 "class attributes like this::"
 msgstr ""
+"Редактируя файл :file:`jupyter_{application}_config.py` вы можете настроить "
+"атрибуты класса, как::"
 
 # 5b49864fb34346d38f53ab5c5cc396dc
 #: ../../source/projects/config.rst:39 32b23c4639524609a8bced777ce38680
@@ -104,6 +106,8 @@ msgid ""
 "Be careful with spelling. Incorrect names will simply be ignored, with no "
 "error message."
 msgstr ""
+"Будьте осторожны с орфографией. Неправильные имена будут просто игнорироваться "
+"без сообщения об ошибке."
 
 # ab038bbb09b648e59a1f74f6d2a58d7a
 #: ../../source/projects/config.rst:42 ba73cd8d21164754bafd48427a04a21d
@@ -118,7 +122,7 @@ msgstr ""
 # ee2b6c90ccd04fe4b948fcc54a29816f
 #: ../../source/projects/config.rst:52 8c05dc3f14884a93a42f399f9f5a96cd
 msgid "Command line options for configuration"
-msgstr ""
+msgstr "Параметры командной строки для настройки"
 
 # e9fa04aaf42e49cbb4d8262ce23da43d
 #: ../../source/projects/config.rst:54 f8662ce98b7843b48c639adbf4974b9c
@@ -145,6 +149,8 @@ msgstr ""
 msgid ""
 "Command line options **will override** options set within a configuration file."
 msgstr ""
+"Параметры командной строки **переопределяют** параметры, установленные в файле "
+"конфигурации."
 
 # 36415b5e588946969565a4a22179fb99
 #: ../../source/projects/config.rst:77 ae891dc7c0844df682fc7687b20e0f77
@@ -163,12 +169,12 @@ msgstr ""
 # b3daae6ac8b8407d9311cebd6b0cd982
 #: ../../source/projects/content-projects.rst:7 94301b5f388647c58fc5742a7d4dbfa1
 msgid "Installation"
-msgstr ""
+msgstr "Установка"
 
 # 25e5f9f40ad84a3183e46a0701c5d083
 #: ../../source/projects/content-projects.rst:17 aa6b2fb0524b454cb6f9aa2acc2c3a4a
 msgid "How do I decide which packages I need?"
-msgstr ""
+msgstr "Как мне решить, какие пакеты мне нужны?"
 
 # c96ce8e348c543bfbb7beb3622bd7d3b
 #: ../../source/projects/content-projects.rst:136
@@ -186,7 +192,7 @@ msgstr ""
 #: ../../source/projects/doc-proj-categories.rst:3
 #: 964503ccac99495d95564131d2ec0b79
 msgid "Project Documentation"
-msgstr ""
+msgstr "Документация проекта"
 
 # da1412ca76794532b4409e1da1d6a9c6
 #: ../../source/projects/doc-proj-categories.rst:8
@@ -208,19 +214,19 @@ msgstr "Пользовательский интерфейс Jupyter"
 #: ../../source/projects/doc-proj-categories.rst:13
 #: 12ad016934be4822b91a0a3489edb8cb
 msgid "`Jupyter Notebook <https://jupyter-notebook.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`Jupyter Notebook <https://jupyter-notebook.readthedocs.io/en/latest/>`_"
 
 # f0f7ba9f5be24319a67f3822fdca4e63
 #: ../../source/projects/doc-proj-categories.rst:14
 #: 0f59a296ee5e4a79bdd22769f28f6edd
 msgid "`jupyter_console <https://jupyter-console.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`jupyter_console <https://jupyter-console.readthedocs.io/en/latest/>`_"
 
 # d11bac142e77476e8ed00dbc47d8cca4
 #: ../../source/projects/doc-proj-categories.rst:15
 #: 6da56903b9004619a8a2af2c5124714b
 msgid "`qtconsole <https://qtconsole.readthedocs.io/en/stable/>`_"
-msgstr ""
+msgstr "`qtconsole <https://qtconsole.readthedocs.io/en/stable/>`_"
 
 # 2c1b9d78c1164045b7e3ee67011405cb
 #: ../../source/projects/doc-proj-categories.rst:18
@@ -232,7 +238,7 @@ msgstr "JupyterHub"
 #: ../../source/projects/doc-proj-categories.rst:19
 #: fe29a140c2874fc39fc9937195070dae
 msgid "`JupyterHub <https://jupyterhub.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`JupyterHub <https://jupyterhub.readthedocs.io/en/latest/>`_"
 
 # 7572a9cc7da44692b9f3bc4386564364
 #: ../../source/projects/doc-proj-categories.rst:20
@@ -241,30 +247,32 @@ msgid ""
 "`configurable-http-proxy <https://github.com/jupyterhub/configurable-http-"
 "proxy>`_"
 msgstr ""
+"`configurable-http-proxy <https://github.com/jupyterhub/configurable-http-"
+"proxy>`_"
 
 # 5c5566158224426295e9e97bb73ecc46
 #: ../../source/projects/doc-proj-categories.rst:21
 #: 127ae62e781b435eba1a90b395d96ec6
 msgid "`dockerspawner <https://github.com/jupyterhub/dockerspawner>`_"
-msgstr ""
+msgstr "`dockerspawner <https://github.com/jupyterhub/dockerspawner>`_"
 
 # bb55cce340ef4ea4892839cbd8337e8f
 #: ../../source/projects/doc-proj-categories.rst:22
 #: f1c086f2b7fb440fa07fa12ce5571d6d
 msgid "`ldapauthenticator <https://github.com/jupyterhub/ldapauthenticator>`_"
-msgstr ""
+msgstr "`ldapauthenticator <https://github.com/jupyterhub/ldapauthenticator>`_"
 
 # f7d54f483595450fa4b37781fd887452
 #: ../../source/projects/doc-proj-categories.rst:23
 #: a8eccb2704e34c4384494446aefc0546
 msgid "`oauthenticator <https://github.com/jupyterhub/oauthenticator>`_"
-msgstr ""
+msgstr "`oauthenticator <https://github.com/jupyterhub/oauthenticator>`_"
 
 # dc23452377da44edbe127d34cd305a19
 #: ../../source/projects/doc-proj-categories.rst:24
 #: e414a60996884b3aaeb3207eeaa3e4c2
 msgid "`sudospawner <https://github.com/jupyterhub/sudospawner>`_"
-msgstr ""
+msgstr "`sudospawner <https://github.com/jupyterhub/sudospawner>`_"
 
 # fec520fc2c8a4b7aa8f54bda8447e976
 # e31418dae87748369b4fa4826b428dfc
@@ -278,25 +286,25 @@ msgstr "Обучение"
 #: ../../source/projects/doc-proj-categories.rst:28
 #: 33f738776c864ae18bfb511484c7f772
 msgid "`nbgrader <https://nbgrader.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`nbgrader <https://nbgrader.readthedocs.io/en/latest/>`_"
 
 # bcf3e08d367944c39c38201049663273
 #: ../../source/projects/doc-proj-categories.rst:31
 #: 3bd7c914f2a240c583a74ae57d47d429
 msgid "Notebook Conversion and Formatting"
-msgstr ""
+msgstr "Преобразование и форматирование блокнота"
 
 # 6f5a84f0d0b64958a31aeb68b9bd9d43
 #: ../../source/projects/doc-proj-categories.rst:32
 #: fa25ef1b47f54e9c9b5eabf1d14c3dce
 msgid "`nbconvert <https://nbconvert.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`nbconvert <https://nbconvert.readthedocs.io/en/latest/>`_"
 
 # 87e7cf3391ae49e2b5719e4f2843a9bc
 #: ../../source/projects/doc-proj-categories.rst:33
 #: 76575c9b0e4e41fe9751c5fc79d37cb6
 msgid "`nbformat <https://nbformat.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`nbformat <https://nbformat.readthedocs.io/en/latest/>`_"
 
 # 1642454b670a4f23b884da1cf8b42095
 # 838d9a305b6d4cf29191f3b95bd29e52
@@ -310,13 +318,13 @@ msgstr "Ядра"
 #: ../../source/projects/doc-proj-categories.rst:37
 #: a38e47c885df4f6598e7a597360d8307
 msgid "`IPython <https://ipython.readthedocs.io/en/stable/>`_"
-msgstr ""
+msgstr "`IPython <https://ipython.readthedocs.io/en/stable/>`_"
 
 # 0939ba530c894801ae11b4e65e2530f2
 #: ../../source/projects/doc-proj-categories.rst:38
 #: 28533efd1a974499aadc8481e6499e55
 msgid "`IRkernel <https://irkernel.github.io/>`_"
-msgstr ""
+msgstr "`IRkernel <https://irkernel.github.io/>`_"
 
 # 10e09d0397ef4458890c8ed800194814
 #: ../../source/projects/doc-proj-categories.rst:39
@@ -331,6 +339,8 @@ msgid ""
 "`List of community maintained language kernels <https://github.com/ipython/"
 "ipython/wiki/IPython-kernels-for-other-languages>`_"
 msgstr ""
+"`Список поддерживаемых сообществом языковых ядер <https://github.com/ipython/"
+"ipython/wiki/IPython-kernels-for-other-languages>`_"
 
 # 831ada76059b4ebea4e80a139b91ef06
 #: ../../source/projects/doc-proj-categories.rst:43
@@ -342,19 +352,19 @@ msgstr "IPython"
 #: ../../source/projects/doc-proj-categories.rst:44
 #: 764f3e34e13a420f87e724b82114ff4e
 msgid "`IPython`_"
-msgstr ""
+msgstr "`IPython`_"
 
 # 8c06cd6a311e440a8b4b90313e599a5d
 #: ../../source/projects/doc-proj-categories.rst:45
 #: 7d709568be9c42ffbda3c2ff340d6896
 msgid "`ipykernel <https://ipython.readthedocs.io/en/stable/>`_"
-msgstr ""
+msgstr "`ipykernel <https://ipython.readthedocs.io/en/stable/>`_"
 
 # b890abfa9d4c4040a128bf67fdaa6139
 #: ../../source/projects/doc-proj-categories.rst:46
 #: f63d48bf937941bf92ca04e861e402db
 msgid "`ipyparallel <https://ipyparallel.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`ipyparallel <https://ipyparallel.readthedocs.io/en/latest/>`_"
 
 # 1f0fbbbf059d4c7182c15c9c48dd5450
 # aafbcd62f5d4479f9501ef2df6a138f0
@@ -374,13 +384,13 @@ msgstr "`docker-stacks <https://github.com/jupyter/docker-stacks>`_"
 #: ../../source/projects/doc-proj-categories.rst:51
 #: 9f9d80c83cc14ac8b1c7b76cd4c59fb0
 msgid "`ipywidgets <https://ipywidgets.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`ipywidgets <https://ipywidgets.readthedocs.io/en/latest/>`_"
 
 # 6ce5c42884a14600bb1271b40d06d02b
 #: ../../source/projects/doc-proj-categories.rst:52
 #: 3fb963670d4648deb4865e07bd7e2383
 msgid "`jupyter-drive <https://github.com/jupyter/jupyter-drive>`_"
-msgstr ""
+msgstr "`jupyter-drive <https://github.com/jupyter/jupyter-drive>`_"
 
 # 97e013d4dc7e44dc88d18c6151f7f7e7
 #: ../../source/projects/doc-proj-categories.rst:53
@@ -394,6 +404,7 @@ msgstr ""
 msgid ""
 "`kernel_gateway <https://jupyter-kernel-gateway.readthedocs.io/en/latest/>`_"
 msgstr ""
+"`kernel_gateway <https://jupyter-kernel-gateway.readthedocs.io/en/latest/>`_"
 
 # 6b76351692c6479493985193869e2a03
 #: ../../source/projects/doc-proj-categories.rst:55
@@ -411,7 +422,7 @@ msgstr "`tmpnb <https://github.com/jupyter/tmpnb>`_"
 #: ../../source/projects/doc-proj-categories.rst:57
 #: 6781265659e044a18849f700ffd0231e
 msgid "`traitlets <https://traitlets.readthedocs.io/en/stable/>`_"
-msgstr ""
+msgstr "`traitlets <https://traitlets.readthedocs.io/en/stable/>`_"
 
 # 469c33adacf44e77be8479c50a3afde7
 #: ../../source/projects/doc-proj-categories.rst:60
@@ -423,37 +434,38 @@ msgstr "JupyterLab"
 #: ../../source/projects/doc-proj-categories.rst:61
 #: 5537a9604ab149339332ba8463610736
 msgid "`jupyter-js-notebook <https://github.com/jupyter/jupyter-js-notebook>`_"
-msgstr ""
+msgstr "`jupyter-js-notebook <https://github.com/jupyter/jupyter-js-notebook>`_"
 
 # 312f96ae98194c598857978bec70d4e1
 #: ../../source/projects/doc-proj-categories.rst:62
 #: 4b4090fb7b2d4159b69ca48e54d7ac6a
 msgid "`jupyter-js-phosphide <https://github.com/jupyter/jupyter-js-phosphide>`_"
 msgstr ""
+"`jupyter-js-phosphide <https://github.com/jupyter/jupyter-js-phosphide>`_"
 
 # 3f8abf0c8fa54d01ba938fe0cfa6ae3f
 #: ../../source/projects/doc-proj-categories.rst:63
 #: 8156be5eed2341feb70fcd55b7930b70
 msgid "`jupyter-js-plugins <https://github.com/jupyter/jupyter-js-plugins>`_"
-msgstr ""
+msgstr "`jupyter-js-plugins <https://github.com/jupyter/jupyter-js-plugins>`_"
 
 # f563f0f8921b40c9a56aa72a62a7ae08
 #: ../../source/projects/doc-proj-categories.rst:64
 #: bc0b994429ed40c680ddcdf692b3be19
 msgid "`jupyter-js-services <http://jupyter.org/jupyter-js-services/>`_"
-msgstr ""
+msgstr "`jupyter-js-services <http://jupyter.org/jupyter-js-services/>`_"
 
 # 932e4e56da8149dc9b19c939d0ce6291
 #: ../../source/projects/doc-proj-categories.rst:65
 #: e919ff8c3b0c4b4cbdac13572bca18e9
 msgid "`jupyter-js-ui <http://jupyter.org/jupyter-js-ui/>`_"
-msgstr ""
+msgstr "`jupyter-js-ui <http://jupyter.org/jupyter-js-ui/>`_"
 
 # 5d5e4940d3624873a4b2c39ce7d4ea00
 #: ../../source/projects/doc-proj-categories.rst:66
 #: 96b5afb7cc9a4d2db6c3536fcb2bd8b8
 msgid "`jupyter-js-utils <http://jupyter.org/jupyter-js-utils/>`_"
-msgstr ""
+msgstr "`jupyter-js-utils <http://jupyter.org/jupyter-js-utils/>`_"
 
 # edd42737bc98463498d711d9d916c157
 # 73d33f0f3c864e74b012a215450194c5
@@ -467,18 +479,18 @@ msgstr "Архитектура"
 #: ../../source/projects/doc-proj-categories.rst:70
 #: 0c5fa8bc976e4e44841ba174b5c1c6d5
 msgid "`jupyter_client <https://jupyter-client.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`jupyter_client <https://jupyter-client.readthedocs.io/en/latest/>`_"
 
 # a7c0c77907204a10aa56b382435e60e7
 #: ../../source/projects/doc-proj-categories.rst:71
 #: fc3e9e271cdc460ea6e8dab92953f225
 msgid "`jupyter_core <https://jupyter-core.readthedocs.io/en/latest/>`_"
-msgstr ""
+msgstr "`jupyter_core <https://jupyter-core.readthedocs.io/en/latest/>`_"
 
 # cba6565dfef44292847ee4619fb67cdd
 #: ../../source/projects/incubator.rst:2 930b437dd1c642cfb191ffdbcbe39628
 msgid "Incubator Projects"
-msgstr ""
+msgstr "Проекты инкубатора"
 
 # 28287c3575fc4697829583939cfd9ef0
 #: ../../source/projects/incubator.rst:7 ccfa7d81fd5d43eb9ced70ec9b00c134
@@ -490,12 +502,12 @@ msgstr ""
 # b6fadf1a90d64f40bc531afda9e7f181
 #: ../../source/projects/incubator.rst:11 d0f155db86c84dec90495a8034da7d58
 msgid "Descriptions"
-msgstr ""
+msgstr "Описания"
 
 # 75694883742b41c7b1dbf76b66fab082
 #: ../../source/projects/incubator.rst:13 d2f7c5056370492b8a96f3b79157d74a
 msgid "Interesting projects include:"
-msgstr ""
+msgstr "Интересные проекты включают в себя:"
 
 # edf5c1a57381452f81241ced74bfd684
 #: ../../source/projects/incubator.rst:15 3dcddcc467c344be85a61f4c40a64e11
@@ -503,6 +515,8 @@ msgid ""
 "`content management extensions <https://github.com/jupyter-incubator/"
 "contentmanagement>`_ - Jupyter Content Management Extensions"
 msgstr ""
+"`content management extensions <https://github.com/jupyter-incubator/"
+"contentmanagement>`_ - Расширения для управления контентом Jupiter"
 
 # 60cda82020be42c08afd057695bea4a4
 #: ../../source/projects/incubator.rst:16 a8bb6294210e47c69959acbdd67db8fa
@@ -510,6 +524,8 @@ msgid ""
 "`dashboards <https://github.com/jupyter-incubator/dashboards>`_ - Jupyter "
 "Dynamic Dashboards from Notebooks"
 msgstr ""
+"`dashboards <https://github.com/jupyter-incubator/dashboards>`_ - Динамические "
+"панели мониторинга Jupyter для блокнотов"
 
 # 254de647304647ab8073b020d1cc3b01
 #: ../../source/projects/incubator.rst:17 7451ff9806584564a4ad550f6af773eb
@@ -517,6 +533,8 @@ msgid ""
 "`declarative widgets <https://github.com/jupyter-incubator/"
 "declarativewidgets>`_ - Jupyter Declarative Widgets Extension"
 msgstr ""
+"`declarative widgets <https://github.com/jupyter-incubator/"
+"declarativewidgets>`_ - Расширение декларативных виджетов Jupyter"
 
 # 43b5a7a788f74c0fa8d7532dcec2a001
 #: ../../source/projects/incubator.rst:18 149f1a7d84004ec59250e416ce3432f6
@@ -525,6 +543,9 @@ msgid ""
 "kernel_gateway_bundlers>`_ - Converts a notebook to a kernel gateway "
 "microservice bundle for download"
 msgstr ""
+"`kernel gateway bundlers <https://github.com/jupyter-incubator/"
+"kernel_gateway_bundlers>`_ - Преобразует блокнот в пакет микросервисов ядра "
+"шлюза для загрузки"
 
 # a70e8c643c034c8f95ecc7d52c3b76eb
 #: ../../source/projects/incubator.rst:19 a4994d99c4ab4c94b1f53a477317b5f8
@@ -532,6 +553,8 @@ msgid ""
 "`showcase`_ - A spot to try demos of one or more incubating Jupyter projects "
 "in `Binder <http://mybinder.org/>`_"
 msgstr ""
+"`showcase`_ - Место для демонстрации одного или нескольких инкубационных "
+"проектов Jupyter в `Binder <http://mybinder.org/>`_"
 
 # d70eebc552ab4bd197ee7bbd9def1a9b
 #: ../../source/projects/incubator.rst:20 56ca626d6a3c4e4d8880aff1ac77d685
@@ -539,6 +562,8 @@ msgid ""
 "`sparkmagic <https://github.com/jupyter-incubator/sparkmagic>`_ - Jupyter "
 "magics and kernels for working with remote Spark clusters"
 msgstr ""
+"`sparkmagic <https://github.com/jupyter-incubator/sparkmagic>`_ - Магия и ядра "
+"Jupyter для работы с удаленными кластерами Spark"
 
 # 99fd5864d2694a498188465e90d5e366
 #: ../../source/projects/incubator.rst:21 e7746c0142d543a8ab4c9bb666a87d50
@@ -546,6 +571,8 @@ msgid ""
 "`traittypes <https://github.com/jupyter-incubator/traittypes>`_ - Traitlets "
 "types for NumPy, SciPy and friends"
 msgstr ""
+"`traittypes <https://github.com/jupyter-incubator/traittypes>`_ - Типы "
+"трейлеров для NumPy, SciPy и друзей"
 
 # 39368898693b438885f9f91f59f62a9f
 #: ../../source/projects/incubator.rst:23 e873aed0e82d4ca481518a27509e47c9
@@ -588,6 +615,8 @@ msgid ""
 "`IPython <https://ipython.org>`_ provides a rich architecture for interactive "
 "computing with:"
 msgstr ""
+"`IPython <https://ipython.org>`_ обеспечивает богатую архитектуру для "
+"интерактивных вычислений с:"
 
 # 8e4ff36b60e9432594471c8fee1d7163
 #: ../../source/projects/ipython_projects.rst:13 11d717e369b44882bb0e721384648c50
@@ -666,6 +695,8 @@ msgid ""
 "`ipyparallel <https://ipyparallel.readthedocs.io/en/latest/>`_ lightweight "
 "parallel computing in Python offering seamless notebook integration"
 msgstr ""
+"`ipyparallel <https://ipyparallel.readthedocs.io/en/latest/>`_ lightweight "
+"parallel computing in Python offering seamless notebook integration"
 
 # 69568ee92daf451489775caebb747947
 #: ../../source/projects/ipython_projects.rst:39 1ea7c4a4fc4843ad985c2a9cf6902d90
@@ -673,6 +704,8 @@ msgid ""
 "`ipywidgets <https://ipywidgets.readthedocs.io/en/latest/>`_ interactive "
 "widgets for Python in the Jupyter Notebook"
 msgstr ""
+"`ipywidgets <https://ipywidgets.readthedocs.io/en/latest/>`_ интерактивные "
+"виджеты для Python в Jupyter Notebook"
 
 # 5873cdc3af584936a50d5b8af40991b8
 #: ../../source/projects/jupyter-command.rst:4 de0390df9c0f4180bc30d58096e86c7c
@@ -692,6 +725,10 @@ msgid ""
 "foo`` found on your :envvar:`PATH` will be available as a subcommand ``jupyter "
 "foo``."
 msgstr ""
+"Такие команды, как ``jupyter notebook`` запускают приложения Jupyter. Команда "
+"``jupyter`` - это прежде всего пространство имен для подкоманд. Команда типа "
+"``jupyter-foo``, найденная в вашем: envvar:`PATH`, будет доступна в качестве "
+"подкоманды``jupyter foo``."
 
 # 0e8211d5b2854743b58424aefd143a97
 #: ../../source/projects/jupyter-command.rst:23 062d2523f63f40608bce188852cf4e4f
@@ -703,7 +740,7 @@ msgstr ""
 # a546e6c4a3b24260a822ed09c7693c0b
 #: ../../source/projects/jupyter-command.rst:27 0b08b28388f941b8ba8e7728c00afdb5
 msgid "Command options"
-msgstr ""
+msgstr "Параметры команд"
 
 # d3d42ef830c540d385919f7ed738f6a4
 #: ../../source/projects/jupyter-command.rst:31 997a9c0f5c8449619ce3f3943b4d0e65
@@ -740,7 +777,7 @@ msgstr ""
 #: ../../source/projects/jupyter-directories.rst:4
 #: a32d3fd40757402da0fa9e77ef86de2b
 msgid "Common Directories and File Locations"
-msgstr ""
+msgstr "Общие каталоги и расположение файлов"
 
 # 0b4e49809d05429a85146eae83d1b3a5
 #: ../../source/projects/jupyter-directories.rst:9
@@ -770,7 +807,7 @@ msgstr "Файлы конфигурации"
 #: ../../source/projects/jupyter-directories.rst:22
 #: 13e150f90bca45b18cf7e22cc100daf9
 msgid "Config files are stored by default in the :file:`~/.jupyter` directory."
-msgstr ""
+msgstr "Файлы конфигурации по умолчанию хранятся в каталоге :file:`~/.jupyter`."
 
 # e41adbe74f6d474e9cc3eb26c516ce89
 #: ../../source/projects/jupyter-directories.rst:26
@@ -788,6 +825,9 @@ msgid ""
 "of additional locations from which a config file will be loaded. Here's a "
 "table of the locations to be searched, in order of preference:"
 msgstr ""
+"Помимо каталога конфигурации пользователя, упомянутого выше, у Jupyter есть "
+"путь поиска дополнительных мест, из которых будет загружен файл конфигурации. "
+"Вот таблица расположений, в которых нужно искать, в порядке предпочтения:"
 
 # 279e6f91f5d44886a35a4c1357897789
 #: ../../source/projects/jupyter-directories.rst:34
@@ -956,6 +996,9 @@ msgid ""
 "As mentioned above, to list the config directories currently being used you "
 "can run the below command from the :term:`command line`::"
 msgstr ""
+"Как упоминалось выше: для просмотра списка используемых в настоящее время "
+"каталогов конфигурации вы можете запустить следующую команду из :term:`command "
+"line`::"
 
 # e1f07d1d80ef45ab86cfab2a02a686e2
 #: ../../source/projects/jupyter-directories.rst:101
@@ -967,7 +1010,7 @@ msgstr ""
 #: ../../source/projects/jupyter-directories.rst:108
 #: d70e65d53d8b4ae69ee8d8ba1329a29e
 msgid "Runtime files"
-msgstr ""
+msgstr "Исполняемые файлы"
 
 # 9e1d0a2fed714ebdad259185c2c0ebbc
 #: ../../source/projects/jupyter-directories.rst:110
@@ -991,6 +1034,8 @@ msgstr ""
 #: 15c99ce17085452bb1fbdc4ffa754135
 msgid "An environment variable may also be used to set the runtime directory."
 msgstr ""
+"Переменная окружения также может использоваться для установки каталога среды "
+"выполнения."
 
 # dffbcd47c8624f2b9add3a0577b40ea2
 #: ../../source/projects/jupyter-directories.rst:122
@@ -1055,7 +1100,7 @@ msgstr ""
 # 8ccbc30eb55f436d8af25b13a9cd5ef7
 #: ../../source/projects/kernels.rst:4 d6a22a8abb3248ee9d22ac35ec946185
 msgid "Kernels (Programming Languages)"
-msgstr ""
+msgstr "Ядра (Языки программирования)"
 
 # badc42c2b34c4d11ae7aa2b2767f3728
 #: ../../source/projects/kernels.rst:6 3b7c5c66ec524ece945f52acddaf561e
@@ -1078,7 +1123,7 @@ msgstr ""
 # 9910335ae4fe47adbef725bbdb9f7faa
 #: ../../source/projects/subprojects.rst:5 4c771c95f9894680a59d807df636438b
 msgid "Jupyter Projects"
-msgstr ""
+msgstr "Проекты Jupyter"
 
 # b8c9bc5ad06b47d1bf4eb72a5bb7778a
 #: ../../source/projects/subprojects.rst:10 5cda9e39b159412d80349dfe57e1cdfe
@@ -1099,6 +1144,7 @@ msgstr ""
 #: ../../source/projects/subprojects.rst:20 b392378901e34dd5afdf7c0205188819
 msgid "`Jupyter Notebook <https://jupyter-notebook.readthedocs.io/en/latest/>`__"
 msgstr ""
+"`Jupyter Notebook <https://jupyter-notebook.readthedocs.io/en/latest/>`__"
 
 # 83a65fc880d64bcd9cbdc020b85c0c6c
 #: ../../source/projects/subprojects.rst:22 237a03aa50dd40b5a447d7d47c668f6d
@@ -1112,7 +1158,7 @@ msgstr ""
 # aec9f2d0779b4c4c92d8cf427f0d8716
 #: ../../source/projects/subprojects.rst:26 0eb4953803074d65b9ffd4cc02c81499
 msgid "`Jupyter Console <https://jupyter-console.readthedocs.io/en/latest/>`__"
-msgstr ""
+msgstr "`Jupyter Console <https://jupyter-console.readthedocs.io/en/latest/>`__"
 
 # 1849d5bef10540caba484b7e713d550c
 #: ../../source/projects/subprojects.rst:28 e1580e865bff4fa2b659a2b64d5ffffe
@@ -1125,7 +1171,7 @@ msgstr ""
 # 6d562e69261247958e947bf1f99a1578
 #: ../../source/projects/subprojects.rst:31 b3c88fcf18864ea6ab712c489b376885
 msgid "`Jupyter QtConsole <https://jupyter.org/qtconsole/stable/>`__"
-msgstr ""
+msgstr "`Jupyter QtConsole <https://jupyter.org/qtconsole/stable/>`__"
 
 # d11809f22b934f51994dbdd75402efe0
 #: ../../source/projects/subprojects.rst:33 97bf7a7d4f95462badb81178f256ca72
@@ -1147,7 +1193,7 @@ msgstr ""
 # 6dd6dcd0bc1840da8916fc03f01788ef
 #: ../../source/projects/subprojects.rst:46 1d2c67dc1a2f4141a542b710f28110dc
 msgid "`IPython <https://ipython.org>`__"
-msgstr ""
+msgstr "`IPython <https://ipython.org>`__"
 
 # f2c9f65822ee444fbaa722750c715cce
 #: ../../source/projects/subprojects.rst:48 9722ce5da58d4cf6995b74a394bbd795
@@ -1159,7 +1205,7 @@ msgstr ""
 # bb0dcd6ea74f438e8a548661894d6f19
 #: ../../source/projects/subprojects.rst:51 39048aa63e074aa7a0e51c72a65c97f3
 msgid "`ipywidgets <https://ipywidgets.readthedocs.io/en/latest/>`__"
-msgstr ""
+msgstr "`ipywidgets <https://ipywidgets.readthedocs.io/en/latest/>`__"
 
 # ca8e8d5e5b844a9ca0d94fbd32717a7a
 #: ../../source/projects/subprojects.rst:53 863e1d1cf1244283a971688f7085d3f3
@@ -1172,7 +1218,7 @@ msgstr ""
 # c377fd53c79042d6b56baae717d8c2a0
 #: ../../source/projects/subprojects.rst:56 e80b0dbba1a34b5eb251a1d6a49a7c6a
 msgid "`ipyparallel <https://ipyparallel.readthedocs.io/en/latest/>`__"
-msgstr ""
+msgstr "`ipyparallel <https://ipyparallel.readthedocs.io/en/latest/>`__"
 
 # 6d54f08db9124d3ab5eb18ab39c88c6e
 #: ../../source/projects/subprojects.rst:58 125676ac8e814f31b123df111bd97071
@@ -1188,6 +1234,8 @@ msgid ""
 "`Jupyter kernels <https://github.com/ipython/ipython/wiki/IPython-kernels-for-"
 "other-languages>`_"
 msgstr ""
+"`Jupyter kernels <https://github.com/ipython/ipython/wiki/IPython-kernels-for-"
+"other-languages>`_"
 
 # 9474725a4e414c47a8a2c081deb7d361
 #: ../../source/projects/subprojects.rst:66 49292f2b96f2465a963809a0deaad272
@@ -1195,11 +1243,14 @@ msgid ""
 "A full list of kernels available for other languages. Many of these kernels "
 "are developed by third parties and may or may not be stable."
 msgstr ""
+"Полный список ядер, доступных для других языков. Многие из этих ядер "
+"разработаны сторонними разработчиками и могут быть стабильными или не "
+"стабильными."
 
 # bada42846faa4c76bcb0870aa7b4ff67
 #: ../../source/projects/subprojects.rst:70 50a18d6abeec40db86001124568ae036
 msgid "Formatting and Conversion"
-msgstr ""
+msgstr "Форматирование и преобразование"
 
 # 8a0210fab25448ce9a8ce955a5e98b81
 #: ../../source/projects/subprojects.rst:71 d7a589e238014770a3c383a79b821f12
@@ -1213,7 +1264,7 @@ msgstr ""
 # 63aa809df72b43d187a73bb2e4e6a583
 #: ../../source/projects/subprojects.rst:77 ac0ee785943548e58a62cb7dd173fd48
 msgid "`nbconvert <https://nbconvert.readthedocs.io/en/latest/>`__"
-msgstr ""
+msgstr "`nbconvert <https://nbconvert.readthedocs.io/en/latest/>`__"
 
 # 4c57295fbf23443daf9fdd2905ef7fcf
 #: ../../source/projects/subprojects.rst:79 92f2a7832b314d90b1b810262ac6ab74
@@ -1222,11 +1273,15 @@ msgid ""
 "and reStrucuredText. `Documentation <https://nbconvert.readthedocs.io/en/"
 "latest/>`__ | `Repo <https://github.com/jupyter/nbconvert>`__"
 msgstr ""
+"Преобразование динамических блонотов в статические форматы, такие как HTML, "
+"Markdown, LaTeX/PDF и reStrucuredText. `Документация <https://nbconvert."
+"readthedocs.io/en/latest/>`__ | `Репозиторий <https://github.com/jupyter/"
+"nbconvert>`__"
 
 # ce77e006f955438aa5a921968dc8b922
 #: ../../source/projects/subprojects.rst:83 2aa837ad98374d539e6894437bc3b239
 msgid "`nbformat <https://nbformat.readthedocs.io/en/latest/>`__"
-msgstr ""
+msgstr "`nbformat <https://nbformat.readthedocs.io/en/latest/>`__"
 
 # 6dff295e412a47da84bb23b4786708b9
 #: ../../source/projects/subprojects.rst:85 0a809bc851de4d50971fd01ce9241fed
@@ -1247,7 +1302,7 @@ msgstr ""
 # 7c1bb06e24c34d31a3e5d647eb968ef4
 #: ../../source/projects/subprojects.rst:97 35d969b254814a4388dc34744d561d25
 msgid "`nbgrader <https://nbgrader.readthedocs.io/en/stable/>`__"
-msgstr ""
+msgstr "`nbgrader <https://nbgrader.readthedocs.io/en/stable/>`__"
 
 # e871a361fed74d7984ccf6be1d16ae4f
 #: ../../source/projects/subprojects.rst:99 2137022771f5417692febb4b362647cf
@@ -1268,7 +1323,7 @@ msgstr ""
 # eefb0ea614334021a3d54a1978ace7c4
 #: ../../source/projects/subprojects.rst:112 d383f8955438480eb21594cc9b0ad0f4
 msgid "`jupyterhub <https://github.com/jupyterhub/jupyterhub>`__"
-msgstr ""
+msgstr "`jupyterhub <https://github.com/jupyterhub/jupyterhub>`__"
 
 # 17d831ed81344a498d1e6449876780e6
 #: ../../source/projects/subprojects.rst:114 c4437676b182416e93ec1e9d0eda3d66
@@ -1281,7 +1336,7 @@ msgstr ""
 # bf80256b0a2d49beb74926620c0e63d0
 #: ../../source/projects/subprojects.rst:118 bf4f5374ec2d4ae8a995dd9c10766348
 msgid "`jupyter-drive <https://github.com/jupyter/jupyter-drive>`__"
-msgstr ""
+msgstr "`jupyter-drive <https://github.com/jupyter/jupyter-drive>`__"
 
 # d6e3c6aaebe44f4cb095e4097d8ffbfe
 #: ../../source/projects/subprojects.rst:120 be381c71089d44ef87b30669a9d73b1f
@@ -1293,7 +1348,7 @@ msgstr ""
 # 7abe71ed8d0c4b78abda9410c630fce5
 #: ../../source/projects/subprojects.rst:123 a854ed63591d4866a19e4eb21662c667
 msgid "`nbviewer <https://nbviewer.jupyter.org/>`__"
-msgstr ""
+msgstr "`nbviewer <https://nbviewer.jupyter.org/>`__"
 
 # 9f9dbdacd8284a36a9e4fabb09e6f75b
 #: ../../source/projects/subprojects.rst:125 f5700d2028c74609a5b85426760e3a95
@@ -1305,7 +1360,7 @@ msgstr ""
 # 21c5717ce0bb494abeb4f7efe21689cf
 #: ../../source/projects/subprojects.rst:128 2c8c9d0a194444d0ae93d32d021411f1
 msgid "`tmpnb <https://github.com/jupyter/tmpnb>`__"
-msgstr ""
+msgstr "`tmpnb <https://github.com/jupyter/tmpnb>`__"
 
 # b33b868fce914e299fd08a5835536be1
 #: ../../source/projects/subprojects.rst:130 8c2ad96cbaf440df8265af16219f7e7a
@@ -1313,11 +1368,14 @@ msgid ""
 "Create temporary, transient notebooks in the cloud. `Documentation <https://"
 "github.com/jupyter/tmpnb>`__ | `Repo <https://github.com/jupyter/tmpnb>`__"
 msgstr ""
+"Создавайте временные, переходные блокноты в облаке. `Документация <https://"
+"github.com/jupyter/tmpnb>`__ | `Репозиторий <https://github.com/jupyter/"
+"tmpnb>`__"
 
 # 21a190811e944b0da16ade016dc3b614
 #: ../../source/projects/subprojects.rst:133 31c672ffac0c49e8b4ebe6e3856010ee
 msgid "`tmpnb-deploy <https://github.com/jupyter/tmpnb-deploy>`__"
-msgstr ""
+msgstr "`tmpnb-deploy <https://github.com/jupyter/tmpnb-deploy>`__"
 
 # 5daf6e80c11b44c595c655040dc09d64
 #: ../../source/projects/subprojects.rst:135 32c7154ffd1442a5b95c41af76cddaeb
@@ -1329,7 +1387,7 @@ msgstr ""
 # 1f8ac9a7b4db4bb3b330567ac288e212
 #: ../../source/projects/subprojects.rst:138 b5340446d2434f66bce97fbdd8373b00
 msgid "`dockerspawner <https://github.com/jupyterhub/dockerspawner>`__"
-msgstr ""
+msgstr "`dockerspawner <https://github.com/jupyterhub/dockerspawner>`__"
 
 # 2b17819baf714cbea333e87b1007f41a
 #: ../../source/projects/subprojects.rst:140 e9f15ea2426b49649508cc9b65d826c3
@@ -1342,7 +1400,7 @@ msgstr ""
 # 8ef739ace1cf4cc8bad61fb84a2d4c6d
 #: ../../source/projects/subprojects.rst:143 632643b60b014d20868c8cfb5e5e5e89
 msgid "`docker-stacks <https://github.com/jupyter/docker-stacks>`__"
-msgstr ""
+msgstr "`docker-stacks <https://github.com/jupyter/docker-stacks>`__"
 
 # d77ec1880fb64bef854fafe43b182310
 #: ../../source/projects/subprojects.rst:145 c17c2e5d74c145388c060c4d34602003
@@ -1362,7 +1420,7 @@ msgstr ""
 # 682935d71e0f4ab7be95b5b3aea567d5
 #: ../../source/projects/subprojects.rst:156 5aa793257a2249049ae0842a27d35697
 msgid "`jupyter_client <https://jupyter-client.readthedocs.io/en/latest/>`__"
-msgstr ""
+msgstr "`jupyter_client <https://jupyter-client.readthedocs.io/en/latest/>`__"
 
 # 0e90e5cc30614edab2b9cb1f02d94a33
 #: ../../source/projects/subprojects.rst:158 b5baa68b6c464918820d1719d61791eb
@@ -1375,7 +1433,7 @@ msgstr ""
 # ed800037c68c47df8948d52e1b135a2b
 #: ../../source/projects/subprojects.rst:162 70ac78417bf045abbda95bde2348670d
 msgid "`jupyter_core <https://jupyter-core.readthedocs.io/en/latest/>`__"
-msgstr ""
+msgstr "`jupyter_core <https://jupyter-core.readthedocs.io/en/latest/>`__"
 
 # d925cc4bc47747ea85133aad35a742dc
 #: ../../source/projects/subprojects.rst:164 12b0c1eb71fa43bea2e09356ce850b5d
@@ -1384,6 +1442,8 @@ msgid ""
 "jupyter-core.readthedocs.io/en/latest/>`__ | `Repo <https://github.com/jupyter/"
 "jupyter_core>`__"
 msgstr ""
+"Основные функциональные возможности и различные утилиты. `Документация "
+"<https://jupyter-core.readthedocs.io/ru/latest/> jupyter_core> <''"
 
 # 42f7355e70a2465091323cab4580f41c
 #: ../../source/projects/upgrade-notebook.rst:2 8440f769705e4d6ebeaa99562514ca50
@@ -1401,7 +1461,7 @@ msgstr ""
 #: ../../source/projects/upgrade-notebook.rst:28 86716a16348146bdb0ef2b00c6d6d918
 #: e00f933bbab9465a9320f89367a5c1e9
 msgid "If using **Anaconda**, update Jupyter using ``conda``:"
-msgstr ""
+msgstr "Если используется **Anaconda** - обновите Jupyter с помощью ``conda``:"
 
 # a9da6695326c43b2a352e704d29b2dca
 # 6fab146490114576a0eb827544c97bda
@@ -1432,7 +1492,7 @@ msgstr "*или*"
 # e5a0f0b2480d4d288496520262d1b1f5
 #: ../../source/projects/upgrade-notebook.rst:36 015f1c19b5614cc6a1a282d8902ed2fd
 msgid "If using :term:`pip`:"
-msgstr ""
+msgstr "Если используется :term:`pip`:"
 
 # f3af7fac60674d649aee3681c819a3f8
 #: ../../source/projects/upgrade-notebook.rst:46 f7bdb64b6d0d41879b78327134766bbe
